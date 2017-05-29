@@ -1,5 +1,16 @@
 ---
 ---
+
+#info {
+	& > div {
+		margin-bottom: 1em;
+
+		.progress {
+			margin-top: 5px;
+		}
+	}
+}
+
 .annotation {
 	.exact, .raw {
 		display: none;

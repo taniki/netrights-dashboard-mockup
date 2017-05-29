@@ -1,15 +1,19 @@
 
 <div id="info">
-<div>
-				documents: {{ site.data.annotations | group_by: "uri" | size }}
+	<div>
+		<i class="fa fa-file-text" aria-hidden="true"></i>
+
+		documents: {{ site.data.annotations | group_by: "uri" | size }}/100
 
 				<div class="progress">
   				<div class="progress-bar" role="progressbar" style="width: {{ site.data.annotations | group_by: "uri" | size }}%"  aria-valuenow="{{ site.data.annotations | group_by: "uri" | size }}" aria-valuemin="0" aria-valuemax="100"></div>
 				</div>
 
 			</div>
-    	<div>
-				annotations: {{ site.data.annotations | size }}
+	<div>
+		<i class="fa fa-pencil" aria-hidden="true"></i>	
+	
+		annotations: {{ site.data.annotations | size }}/500
 
 				<div class="progress">
   				<div class="progress-bar" role="progressbar" style="width: {{ site.data.annotations | size | divided_by: 5 }}%"  aria-valuenow="{{ site.data.annotations | size }}" aria-valuemin="0" aria-valuemax="500"></div>
@@ -17,8 +21,17 @@
 
 			</div>
 
-      <div>contributors:{{ site.data.annotations | group_by: "user" | size }}</div>  
-			<div>tags: {{ site_tags | size  }}</div>
+      <div>
+				<i class="fa fa-user" aria-hidden="true"></i>
+
+				contributors: {{ site.data.annotations | group_by: "user" | size }}/100
+
+			<div class="progress">
+  			<div class="progress-bar" role="progressbar" style="width: {{ site.data.annotations | group_by: "user" | size  | multiply: 2 }}%"  aria-valuenow="{{ site.data.annotations | group_by: "user" | size }}" aria-valuemin="0" aria-valuemax="50"></div>
+			</div>
+
+			</div>  
+			<div><i class="fa fa-tags" aria-hidden="true"></i> tags: {{ site_tags | size  }}</div>
 
 <a href="https://hypothes.is/groups/gVjA5P3n/nextleap" class="btn btn-primary">Go to the <em>hypothes.is</em> group</a>
 
