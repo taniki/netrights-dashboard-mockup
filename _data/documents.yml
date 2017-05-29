@@ -1,0 +1,34 @@
+- category: Starter
+  documents:
+    - uri_h: https://via.hypothes.is/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ
+      name: Web We Want
+      author: Tim Berners Lee
+      description: 
+
+    - uri_h: https://via.hypothes.is/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA
+      name: The charter of human rights and principles for the internet
+      description: 
+    
+    - uri_h: https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg
+      name: Rapport du Conseil du Numérique
+
+    - uri_h: https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw
+      name: Digital Charta
+
+
+- category: STS
+  documents:
+    - uri_h:
+      name: The Black Stack
+      author: Benjamin Bratton
+    
+    - uri_h: https://via.hypothes.is/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf
+      name: Degrees of Freedom, Dimensions of Power
+
+    - uri_h: https://via.hypothes.is/https://nextleap.eu/netrights/articles/Internet%20Bill%20of%20rights-Musiani.pdf
+      name: Internet Bill of Rights
+      author: Francesca Musiani
+
+    - uri_h: https://via.hypothes.is/https://nextleap.eu/netrights/articles/Musiani_caring-about-the-plumbing.pdf
+      name: Caring about the plumbing
+      author: Francesca Musiani

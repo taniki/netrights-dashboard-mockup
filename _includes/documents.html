@@ -1,0 +1,76 @@
+{% for category in site.data.documents %}
+<div class="document-category row">
+
+<h3 class="col-md-12">{{ category["category"] }}</h3>
+
+{% for document in category.documents  %}
+<div class="col-md-4">
+<div class="card">
+<div class="card-block">
+
+<h4 class="card-title">{{ document["name"] }}</h4>
+
+<h6 class="card-subtitle mb-2 text-muted">{{ document.author  }}</h6>
+
+<p class="card-text">{{ document.description  }}</p>
+
+<a href="{{ document.uri_h  }}" class="card-link">Open with hypothes.is</a>
+</div>
+
+<div class="card-footer">
+
+<div class="stats text-muted small">
+
+<span><i class="fa fa-user" aria-hidden="true"></i> <span>0</span></span>
+<span><i class="fa fa-pencil" aria-hidden="true"></i> <span>0</span></span>
+<span><i class="fa fa-commenting" aria-hidden="true"></i> <span>0</span></span>
+<span><i class="fa fa-bell" aria-hidden="true"></i> <span>0</span></span>
+
+</div>
+
+</div>
+
+</div>
+</div>
+{% endfor %}
+
+</div>
+
+{% endfor %}
+
+<h3>Other documents</h3>
+
+{% assign documents = site.data.annotations | group_by: "uri" %}
+
+<table class="table">
+
+ <thead>
+    <tr>
+      <th class="small">updated</th>
+      <th>document</th>
+      <th><i class="fa fa-user" aria-hidden="true"></i></th>
+      <th><i class="fa fa-commenting" aria-hidden="true"></i</th>
+			<th>h</th>
+    </tr>
+</thead>
+
+{% for document in documents %}
+
+{% assign updated = document.items[0].updated %}
+{% assign name = document.items[0].document.title %}
+{% assign uri = document.items[0].uri %}
+
+{% assign contributors = "" | split: "|" %}
+{% for annotation in document.items %}
+	{% assign contributors = contributors | push: annotation.user %}
+{% endfor %}
+
+<tr>
+	<td class="text-muted small">{{ updated | date_to_string  }}</td>
+	<td><a href="{{ uri }}">{{ name }}</a> </td>
+	<td>{{ contributors | uniq | size }}</td>
+	<td>{{ document.items | size }}</td>
+	<td><a href="http://via.hypothes.is/{{ uri }}">#</a></td>
+</tr>
+{% endfor %}
+<table>

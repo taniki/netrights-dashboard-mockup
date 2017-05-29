@@ -5,3 +5,24 @@
 		display: none;
 	}
 }
+
+.badge {
+	&-topic { background: black; }
+
+  &-approval { background-color: #00FF7F; }
+  &-disapproval {	background-color: #ff6666;	}
+	&-question { background-color: #FFFF66;  }
+	&-reference { background-color: #3399ff;  }
+}
+
+.document-category {
+	margin-bottom: 1em;
+
+  .stats {
+		text-align: center;
+		
+		& > span {
+			margin: 0 0.5em;
+		}
+	}
+}

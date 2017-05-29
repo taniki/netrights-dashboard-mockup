@@ -1,0 +1,15 @@
+- tag: ++
+  description: approval
+  id: approval
+
+- tag: --
+  description: disapproval
+  id: disapproval
+
+- tag: ??
+  description: ask a question
+  id: question
+
+- tag: ==
+  description: add a reference/source
+  id: reference

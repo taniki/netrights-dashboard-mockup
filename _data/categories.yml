@@ -1,0 +1,46 @@
+- tag: need:expertise
+  description: Use this tag when you need an expert advice about a topic
+  badge: primary
+
+- tag: need:discussion
+  description: Use this tag when you want to start a discussion about a topic
+  badge: primary
+
+- tag: need:collective_action
+  badge: primary
+
+- tag: controversial
+  badge: danger
+
+- tag: reference
+  badge: warning
+
+- tag: decentralization
+  badge: topic
+
+- tag: encryption
+  badge: topic
+
+- tag: net_right
+  badge: topic
+
+- tag: activism
+  badge: topic
+
+- tag: industrial_lobby
+  badge: topic
+
+- tag: surveillance
+  badge: topic
+
+- tag: decentralization
+  badge: topic
+
+- tag: encryption
+  badge: topic
+
+- tag: political_threat
+  badge: topic
+
+- tag: technology
+  badge: topic

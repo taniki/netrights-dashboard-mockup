@@ -1,0 +1,51 @@
+
+<div id="info">
+<div>
+				documents: {{ site.data.annotations | group_by: "uri" | size }}
+
+				<div class="progress">
+  				<div class="progress-bar" role="progressbar" style="width: {{ site.data.annotations | group_by: "uri" | size }}%"  aria-valuenow="{{ site.data.annotations | group_by: "uri" | size }}" aria-valuemin="0" aria-valuemax="100"></div>
+				</div>
+
+			</div>
+    	<div>
+				annotations: {{ site.data.annotations | size }}
+
+				<div class="progress">
+  				<div class="progress-bar" role="progressbar" style="width: {{ site.data.annotations | size | divided_by: 5 }}%"  aria-valuenow="{{ site.data.annotations | size }}" aria-valuemin="0" aria-valuemax="500"></div>
+				</div>
+
+			</div>
+
+      <div>contributors:{{ site.data.annotations | group_by: "user" | size }}</div>  
+			<div>tags: {{ site_tags | size  }}</div>
+
+<a href="https://hypothes.is/groups/gVjA5P3n/nextleap" class="btn btn-primary">Go to the <em>hypothes.is</em> group</a>
+
+</div>
+
+<hr />
+
+<h3>Debates</h3>
+
+<p>We are using the <a href="http://polemictweet.com">PolemicTweet</a> tagging system to add value to the annotations.</p>
+
+<dl>
+{% for tag in site.data.polemictweet %}
+<dt><span class="badge badge-{{ tag["id"] }}">{{ tag["tag"] }}</span></dt>
+<dd>{{ tag["description"]  }}</dd>
+{% endfor %}
+</dl>
+
+<hr />
+
+<div id="categories">
+
+<h3>Categories</h3>
+<dl>
+{% for category in site.data.categories %}
+<dt><span class="badge {% if category["badge"] %}badge-{{ category["badge"] }}{% else %}badge-default{% endif %}">{{ category["tag"] }}</span></dt>
+<dd>{{ category["description"] }}</dd>
+{% endfor %}
+</dl>
+</div>
