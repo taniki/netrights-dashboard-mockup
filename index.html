@@ -1,0 +1,83 @@
+---
+---
+
+
+<script>
+annotations = {{ site.data.annotations | jsonify }}
+</script>
+
+<div class="container">
+
+	<h1>Net Rights Contributions</h1>
+
+	<div class="row">
+		<div class="col col-3">
+			<div>
+				documents: {{ site.data.annotations | group_by: "uri" | size }}
+
+				<div class="progress">
+  				<div class="progress-bar" role="progressbar" style="width: {{ site.data.annotations | group_by: "uri" | size }}%"  aria-valuenow="{{ site.data.annotations | group_by: "uri" | size }}" aria-valuemin="0" aria-valuemax="100"></div>
+				</div>
+
+			</div>
+    	<div>
+				annotations: {{ site.data.annotations | size }}
+
+				<div class="progress">
+  				<div class="progress-bar" role="progressbar" style="width: {{ site.data.annotations | size | divided_by: 5 }}%"  aria-valuenow="{{ site.data.annotations | size }}" aria-valuemin="0" aria-valuemax="500"></div>
+				</div>
+
+			</div>
+
+      <div>contributors:{{ site.data.annotations | group_by: "user" | size }}</div>  
+			<div>tags: {{ site_tags | size  }}</div>
+		</div>
+	<div class="col col-9">
+		<ul class="nav nav-tabs">
+  		<li class="nav-item">
+    		<a class="nav-link active"data-toggle="tab" href="#feed" role="tab">Feed</a>
+  		</li>
+  		<li class="nav-item">
+    		<a class="nav-link" data-toggle="tab" href="#documents" role="tab">Documents</a>
+  		</li>
+		</ul>
+	
+
+		<div class="tab-content">
+		<div id="feed" class="tab-pane active" role="tabpanel">
+			{% for annotation in site.data.annotations %}
+			<div class="annotation">
+				<span class="small">{{ annotation["created"] | date_to_string }}</span> <a href="{{ annotation["uri"]  }}">{{ annotation["document"]["title"]  }}</a>
+				
+
+  			{% for tag in annotation["tags"] %}
+					<span class="badge badge-default">{{ tag }}</span>
+				{% endfor %}
+        
+				<div class="exact">
+				<blockquote>
+					{{ annotation["target"]  }}
+				</blockquote>
+				</div>
+
+  			<div class="raw">
+					<pre><code>
+  				{{ annotation | inspect }}
+          </code></pre>
+  			</div>
+
+		</div>
+		{% endfor %}
+	</div><!-- /#feed -->
+
+	<div id="documents" class="tab-panel" role="tabpanel">
+  
+	<h2>Documents</h2>
+	
+	</div>
+
+	</div><!-- /.tab-content --> 
+	
+	</div>
+	</div> <!-- /.row -->
+</div>
