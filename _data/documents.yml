@@ -15,13 +15,14 @@
     - uri_h: https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw
       name: Digital Charta
 
-
 - category: STS
   documents:
     - uri_h: https://via.hypothes.is/http://www.e-flux.com/journal/53/59883/the-black-stack/
       name: The Black Stack
       author: Benjamin Bratton
-    
+      description: |
+        This text is a shorter of Bratton's book "The Stack". This is an interesting starting point to understand net rights issues from an holistic point of view. It also had beed discussed by Bernard Stiegler during NEXTLEAP launch event.
+ 
     - uri_h: https://via.hypothes.is/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf
       name: Degrees of Freedom, Dimensions of Power
 
