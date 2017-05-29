@@ -1,10 +1,10 @@
 {% for category in site.data.documents %}
-<div class="document-category row">
+<div class="document-category">
 
-<h3 class="col-md-12">{{ category["category"] }}</h3>
+<h3>{{ category["category"] }}</h3>
 
+<div class="documents">
 {% for document in category.documents  %}
-<div class="col-md-4">
 <div class="card">
 <div class="card-block">
 
@@ -29,10 +29,9 @@
 </div>
 
 </div>
-
-</div>
 </div>
 {% endfor %}
+</div>
 
 </div>
 

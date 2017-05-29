@@ -33,6 +33,18 @@ h1 {
 .document-category {
 	margin-bottom: 1em;
 
+	.documents {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		flex-grow: 1;
+		justify-content: space-between;
+	}
+		.card {
+			width: 32%;
+			margin-bottom: 1em;
+		}
+
   .stats {
 		text-align: center;
 		
