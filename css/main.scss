@@ -33,6 +33,10 @@ h1 {
 		font-style: italic;
 		overflow: hidden;
 	}
+
+	blockquote+div {
+		flex-grow: 1;
+	}
 }
 
 .badge {
