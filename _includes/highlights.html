@@ -16,10 +16,10 @@
 <li class="list-group-item">
 	<p>{{ selector.prefix }} 
 <strong>{{ selector.exact }}</strong> 
-{{ selector.suffix }}
+{{ selector.suffix }} 
+	<a href="{{ annotation.links.incontext }}">#</a>
 	</p>
 
-	<a href="{{ annotation.links.incontext }}">#</a>
 	{% for tag in annotation.tags %}
 	 {% include badge.html name=tag %}&nbsp; 
 	{% endfor %}
