@@ -1,0 +1,35 @@
+<div class="card-columns">
+
+{% assign annotations = site.data.annotations | group_by: "uri" %}
+
+{% for document in annotations %}
+<div class="card">
+<div class="card-header">
+	<a href="{{ document.name  }}">{{ document.items[0].document.title }}</a>
+</div>
+
+<ul class="list-group list-group-flush small">
+{% for annotation in document.items %}
+{% for selector in annotation.target[0].selector %}
+{% if selector.type == "TextQuoteSelector" %}
+
+<li class="list-group-item">
+	<p>{{ selector.prefix }} 
+<strong>{{ selector.exact }}</strong> 
+{{ selector.suffix }}
+	</p>
+
+	<a href="{{ annotation.links.incontext }}">#</a>
+	{% for tag in annotation.tags %}
+	 {% include badge.html name=tag %}&nbsp; 
+	{% endfor %}
+</li>
+
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>
+
+</div>
+{% endfor %}
+</div>
