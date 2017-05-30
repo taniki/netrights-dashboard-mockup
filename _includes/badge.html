@@ -1,18 +1,18 @@
-{% capture tag %}{{ include.name | downcase | replace: " ", "_" }}{% endcapture %}
+{% capture tag_ %}{{ include.name | downcase | replace: " ", "_" }}{% endcapture %}
 {% assign badge = "badge-default" %}
 					
 {% for category in site.data.categories %}
-	{% if category.badge and tag == category.tag %}
+	{% if category.badge and tag_ == category.tag %}
 		{% capture badge %}badge-{{ category.badge }}{% endcapture %}
 		{% continue %}
 	{% endif %}
 {% endfor %}
 
 {% for category in site.data.polemictweet %}
-	{% if tag == category.tag %}
+	{% if tag_ == category.tag %}
 		{% capture badge %}badge-{{ category.id }}{% endcapture %}
 		{% continue %}
 	{% endif %}
 {% endfor %}
 
-<span class="badge {{ badge }}">{{ tag }}</span>
+<span class="badge {{ badge }}">{{ tag_ }}</span>
