@@ -1,0 +1,34 @@
+{% assign uri = include.uri  %}
+
+{% assign documents = site.data.annotations | group_by: "uri" %}
+
+{% assign contributors = "" | split: "|" %}
+{% assign count_annotations = 0 %}
+{% assign count_comments = 0  %}
+{% assign count_needs = 0 %}
+
+{% for document in documents %}
+{% if document.name contains uri %}
+
+	{% for annotation in document.items %}
+		{% assign contributors = contributors | push: annotation.user %}
+		
+		{% assign current_needs = annotation.tags | where_exp: "t", "t contains 'need:'" | size %}
+		{% assign count_needs = count_needs | plus: current_needs %}
+
+	{% endfor %}
+
+	{% assign current_comments = document.items | where_exp: "a", "a.references" | size %}
+	{% assign current_annotations = document.items | size %}
+
+	{% assign count_annotations = count_annotations | plus: current_annotations %}
+	{% assign count_comments = count_comments | plus: current_comments %}
+
+	{% continue %}
+{% endif %}
+{% endfor %}
+
+<span><i class="fa fa-user" aria-hidden="true"></i> <span>{{ contributors | uniq | size }}</span></span>
+<span><i class="fa fa-pencil" aria-hidden="true"></i> <span>{{ count_annotations }}</span></span>
+<span><i class="fa fa-commenting" aria-hidden="true"></i> <span>{{ count_comments  }}</span></span>
+<span><i class="fa fa-bell" aria-hidden="true"></i> <span>{{count_needs }}</span></span>

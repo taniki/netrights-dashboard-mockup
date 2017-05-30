@@ -20,11 +20,8 @@
 <div class="card-footer">
 	<div class="stats text-muted small">
 
-	<span><i class="fa fa-user" aria-hidden="true"></i> <span>0</span></span>
-	<span><i class="fa fa-pencil" aria-hidden="true"></i> <span>0</span></span>
-	<span><i class="fa fa-commenting" aria-hidden="true"></i> <span>0</span></span>
-	<span><i class="fa fa-bell" aria-hidden="true"></i> <span>0</span></span>
-
+	{% include count.html uri=document.uri %}
+	
 	</div>
 </div>
 
@@ -46,7 +43,7 @@
       <th class="small">updated</th>
       <th>document</th>
       <th><i class="fa fa-user" aria-hidden="true"></i></th>
-      <th><i class="fa fa-commenting" aria-hidden="true"></i</th>
+      <th><i class="fa fa-pencil" aria-hidden="true"></i</th>
 			<th>h</th>
     </tr>
 </thead>
