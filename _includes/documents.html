@@ -74,7 +74,7 @@
 	<td>
 		<p><a href="{{ uri }}">{{ name }}</a></p>
 		<p>{% for tag in tags | uniq %}
-			<span class="badge badge-default">{{ tag }}</span>
+			{% include badge.html name=tag %}
 		{% endfor %}</p>
 	</td>
 	<td>{{ contributors | uniq | size }}</td>

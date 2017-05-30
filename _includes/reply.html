@@ -1,0 +1,21 @@
+{% assign annotation = include.annotation %}
+
+<div class="media mb-3">
+
+	<div class="media-body">
+  	<h5 class="mt-0 mb-1">
+			{{ annotation.user | remove: "acct:" | remove: "@hypothes.is" }}
+			<small class="text-muted">{{ annotation.updated | date_to_string }}</small>
+		</h5>
+
+		{% for tag in annotation.tags %}
+			{% include badge.html name=tag %}
+		{% endfor %}
+
+		{{ annotation.text }}
+	</div>
+	<div class="d-flex ml-3">
+		<a href="{{ annotation.links.html }}" class="btn btn-primary">Reply</a>
+	</div>
+
+</div>

@@ -1,0 +1,28 @@
+{% assign annotations = site.data.annotations | where_exp: "a", "a.tags contains include.filter" %}  
+
+{% for annotation in  annotations%}
+
+<div class="annotation d-flex flex-row align-items-stretch">
+
+<blockquote class="blockquote mr-3" style="width:40%">
+{% for selector in annotation.target[0].selector %}
+{% if selector.type == "TextQuoteSelector" %}
+
+{{ selector.prefix }} 
+<strong>{{ selector.exact }}</strong> 
+{{ selector.suffix }}
+
+{% endif %}
+{% endfor %}
+
+<footer class="blockquote-footer"><cite>{{ annotation.document.title }}</cite></footer>
+
+</blockquote>
+
+<div>
+	{% include reply.html annotation=annotation %}
+	{% include replies.html id=annotation.id %}
+
+</div>
+</div>
+{% endfor %}

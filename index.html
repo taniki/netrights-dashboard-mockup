@@ -36,21 +36,9 @@ annotations = {{ site.data.annotations | jsonify }}
 			{% for annotation in site.data.annotations %}
 			<div class="annotation">
 				<span class="small">{{ annotation["created"] | date_to_string }}</span> <a href="{{ annotation["uri"]  }}">{{ annotation["document"]["title"]  }}</a>
-				
 
   			{% for tag in annotation["tags"] %}
-
-					{% assign badge = "badge-default" %}
-					
-					{% for category in site.data.categories %}
-					{% if category.badge and tag == category.tag %}
-						{%  capture badge %}badge-{{ category.badge }}{% endcapture %}
-
-						{% continue %}
-					{% endif %}
-					{% endfor %}
-
-					<span class="badge {{ badge  }}">{{ tag }}</span>
+					{% include badge.html name=tag %}
 				{% endfor %}
         
 				<div class="exact">

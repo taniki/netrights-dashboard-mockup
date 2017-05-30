@@ -1,0 +1,7 @@
+{% assign annotation_id = include.id %}
+{% assign replies = site.data.annotations | where_exp: "a", "a.references contains annotation_id" | sort: "updated" %} 
+
+{% for annotation in replies %}
+	{% include reply.html annotation=annotation%} 
+
+{% endfor %}

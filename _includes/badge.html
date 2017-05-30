@@ -1,0 +1,19 @@
+{% assign tag = {{ include.name }} %}
+{% assign badge = "badge-default" %}
+					
+{% for category in site.data.categories %}
+	{% if category.badge and tag == category.tag %}
+		{% capture badge %}badge-{{ category.badge }}{% endcapture %}
+		{% continue %}
+	{% endif %}
+{% endfor %}
+
+{% for category in site.data.polemictweet %}
+	{% if tag == category.tag %}
+		{% capture badge %}badge-{{ category.id }}{% endcapture %}
+		{% continue %}
+	{% endif %}
+{% endfor %}
+
+
+<span class="badge {{ badge }}">{{ tag }}</span>
