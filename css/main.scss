@@ -39,6 +39,13 @@ h1 {
 	}
 }
 
+.highlight {
+	strong {
+		background: #ff6;
+		font-weight: normal;
+	}
+}
+
 .badge {
 	&-topic { background: black; }
 
