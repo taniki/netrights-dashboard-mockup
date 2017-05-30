@@ -15,4 +15,4 @@
 	{% endif %}
 {% endfor %}
 
-<span class="badge {{ badge }}">{{ tag_ }}</span>
+<span class="badge {{ badge }}">{{ tag_ | replace: "_", " " }}</span>

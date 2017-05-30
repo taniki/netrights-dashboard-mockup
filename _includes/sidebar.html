@@ -64,7 +64,7 @@
 <h3>Categories</h3>
 <dl>
 {% for category in site.data.categories %}
-<dt><span class="badge {% if category["badge"] %}badge-{{ category["badge"] }}{% else %}badge-default{% endif %}">{{ category["tag"] }}</span></dt>
+<dt><span class="badge {% if category["badge"] %}badge-{{ category["badge"] }}{% else %}badge-default{% endif %}">{{ category["tag"] | replace: "_", " " }}</span></dt>
 <dd>{{ category["description"] }}</dd>
 {% endfor %}
 </dl>
