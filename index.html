@@ -25,6 +25,9 @@ annotations = {{ site.data.annotations | jsonify }}
   		<li class="nav-item">
     		<a class="nav-link" data-toggle="tab" href="#contributors" role="tab">Contributors</a>
   		</li>
+  		<li class="nav-item">
+    		<a class="nav-link" data-toggle="tab" href="#highlights" role="tab">Highlights</a>
+  		</li>
 			<li class="nav-item ml-auto">
     		<a class="nav-link" data-toggle="tab" href="#feed" role="tab">Feed</a>
   		</li>
@@ -73,6 +76,9 @@ annotations = {{ site.data.annotations | jsonify }}
 		{% include contributors.html %}
 	</div>
 
+	<div id="highlights" class="tab-pane" role="tabpanel">
+		{% include highlights.html %}
+	</div>
 
 	</div><!-- /.tab-content --> 
 	

@@ -1,4 +1,4 @@
-{% assign tag = {{ include.name }} %}
+{% capture tag %}{{ include.name | downcase | replace: " ", "_" }}{% endcapture %}
 {% assign badge = "badge-default" %}
 					
 {% for category in site.data.categories %}
@@ -14,6 +14,5 @@
 		{% continue %}
 	{% endif %}
 {% endfor %}
-
 
 <span class="badge {{ badge }}">{{ tag }}</span>

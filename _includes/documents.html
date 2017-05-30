@@ -73,7 +73,10 @@
 	<td class="text-muted small">{{ updated | date_to_string  }}</td>
 	<td>
 		<p><a href="{{ uri }}">{{ name }}</a></p>
-		<p>{% for tag in tags | uniq %}
+		
+		{% assign tags_  = tags | uniq %}
+		
+		<p>{% for tag in tags %}
 			{% include badge.html name=tag %}
 		{% endfor %}</p>
 	</td>
