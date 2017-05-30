@@ -7,13 +7,18 @@
 
     - uri_h: https://via.hypothes.is/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA
       name: The charter of human rights and principles for the internet
+      author: Internet Rights and Principles Coalition
       description: 
     
     - uri_h: https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg
-      name: Rapport du Conseil du Numérique
+      name: Rapport d’information déposé par la Commission de réflexion et de propositions sur le droit et les libertés à l'âge du numérique  
+      author: Conseil National du Numérique
 
     - uri_h: https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw
       name: Digital Charta
+      author: Die Zeit
+      description: |
+        The Digital Charta is a German proposal of Net Rights. There is also an available <a href="https://via.hypothes.is/https://digitalcharta.eu/wp-content/uploads/2016/12/Digital-Charta-EN.pdf">english version
 
 - category: STS
   documents:
@@ -25,6 +30,7 @@
  
     - uri_h: https://via.hypothes.is/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf
       name: Degrees of Freedom, Dimensions of Power
+      author: Yochai Benkler
 
     - uri_h: https://via.hypothes.is/https://nextleap.eu/netrights/articles/Internet%20Bill%20of%20rights-Musiani.pdf
       name: Internet Bill of Rights
