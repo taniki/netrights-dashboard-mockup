@@ -28,8 +28,8 @@
 	</div>
 	
 	{% if annotation.text %}
-	<div class="comment-body text-muted font-italic mb-1">
-		{{ annotation.text }}
+	<div class="comment-body text-muted font-italic">
+		{{ annotation.text | markdownify }}
 	</div>
 	{% endif %}
 

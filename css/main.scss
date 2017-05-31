@@ -45,6 +45,11 @@ h1 {
 		font-weight: normal;
 	}
 }
+.comment-body {
+	p:last-child {
+		margin-bottom: 0;
+	}
+}
 
 .badge {
 	&-topic { background: black; }
