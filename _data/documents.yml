@@ -29,6 +29,11 @@
       author: Tim Berners Lee
       description:
 
+    - uri: https://www.article19.org/
+      uri_h: htts://via.hypothes.is/https://www.article19.org/
+      name: Article 19
+
+
 - category: STS
   documents:
     - uri: http://www.e-flux.com/journal/53/59883/the-black-stack/
