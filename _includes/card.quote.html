@@ -1,0 +1,28 @@
+{% assign annotation = include.annotation %}
+
+<div class="card">
+<div class="card-header">
+	<a href="{{ annotation.uri  }}">{{ annotation.document.title }}</a>
+</div>
+
+<ul class="list-group list-group-flush small">
+{% for selector in annotation.target[0].selector %}
+{% if selector.type == "TextQuoteSelector" %}
+
+<li class="highlight list-group-item">
+	<p>{{ selector.prefix }} 
+<strong>{{ selector.exact }}</strong> 
+{{ selector.suffix }} 
+	<a href="{{ annotation.links.incontext }}">#</a>
+	</p>
+
+	{% for tag in annotation.tags %}
+	 {% include badge.html name=tag %}&nbsp; 
+	{% endfor %}
+</li>
+
+{% endif %}
+{% endfor %}
+</ul>
+
+</div>

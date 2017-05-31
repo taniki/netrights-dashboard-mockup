@@ -2,27 +2,16 @@
 
 {% for annotation in  annotations%}
 
-<div class="annotation d-flex flex-row align-items-stretch">
+<div class="annotation d-flex flex-row mb-3">
 
-<blockquote class="blockquote mr-3" style="width:40%">
-{% for selector in annotation.target[0].selector %}
-{% if selector.type == "TextQuoteSelector" %}
+<div class="mr-3" style="width:40%;">
+{% include card.quote.html annotation=annotation %}
+</div>
 
-{{ selector.prefix }} 
-<strong>{{ selector.exact }}</strong> 
-{{ selector.suffix }}
-
-{% endif %}
-{% endfor %}
-
-<footer class="blockquote-footer"><cite>{{ annotation.document.title }}</cite></footer>
-
-</blockquote>
-
-<div>
+<div class="thread">
 	{% include reply.html annotation=annotation %}
 	{% include replies.html id=annotation.id %}
-
 </div>
+
 </div>
 {% endfor %}
