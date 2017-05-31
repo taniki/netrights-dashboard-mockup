@@ -1,5 +1,126 @@
 [
     {
+        "updated": "2017-05-31T14:02:44.835938+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://torrentfreak.com/peter-sundes-pirate-innovation-dream-wont-happen-anytime-soon-160731/"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/0fC3XEYJEee3Ldt9XcqeCw",
+            "html": "https://hypothes.is/a/0fC3XEYJEee3Ldt9XcqeCw",
+            "incontext": "https://hyp.is/fC7lfMVtEeaad6t8X2hRww/torrentfreak.com/peter-sundes-pirate-innovation-dream-wont-happen-anytime-soon-160731/"
+        },
+        "tags": [
+            "need:discussion",
+            "accelerationism"
+        ],
+        "text": "I have the intuition it is related to [accelerationism](https://en.wikipedia.org/wiki/Accelerationism).",
+        "created": "2017-05-31T14:02:44.835938+00:00",
+        "uri": "https://torrentfreak.com/peter-sundes-pirate-innovation-dream-wont-happen-anytime-soon-160731/",
+        "id": "0fC3XEYJEee3Ldt9XcqeCw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "references": [
+            "fC7lfMVtEeaad6t8X2hRww"
+        ],
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Peter Sunde's Pirate Innovation Dream Won't Happen Anytime Soon - TorrentFreak"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-05-31T13:47:40.537201+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://autocrypt.readthedocs.io/en/latest/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "introducing-autocrypt-e-mail-encryption-for-everyone"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 419,
+                        "endContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/p[3]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/p[3]/strong[1]"
+                    },
+                    {
+                        "end": 1048,
+                        "type": "TextPositionSelector",
+                        "start": 629
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "urce of digital identification?\n",
+                        "exact": "Why a new approach to e-mail encryption?  Encrypted e-mail has been\naround for decades, but has failed to see wide adoption outside of\nspecialist communities, in large part because of difficulties with user\nexperience and certification models.  Autocrypt first aims to provide\nconvenient encryption that is neither perfect nor as secure as\ntraditional e-mail encryption, but is convenient enough for\nmuch wider adoption",
+                        "suffix": ".\n\nThe social Autocrypt approach"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/tu5-bkYHEeeFFb8oc_L1og",
+            "html": "https://hypothes.is/a/tu5-bkYHEeeFFb8oc_L1og",
+            "incontext": "https://hyp.is/tu5-bkYHEeeFFb8oc_L1og/autocrypt.readthedocs.io/en/latest/"
+        },
+        "tags": [
+            "Call for expertise on Decentralization"
+        ],
+        "text": "",
+        "created": "2017-05-31T13:47:40.537201+00:00",
+        "uri": "http://autocrypt.readthedocs.io/en/latest/",
+        "id": "tu5-bkYHEeeFFb8oc_L1og",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:Iness21@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Autocrypt - E-mail Encryption for Everyone \u2014 Autocrypt 0.4 documentation"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "update": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "delete": [
+                "acct:Iness21@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-05-31T13:45:24.469862+00:00",
         "group": "gVjA5P3n",
         "target": [
