@@ -1,16 +1,15 @@
 - category: Starter
   documents:
-    - uri: https://webwewant.org/
-      uri_h: https://via.hypothes.is/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ
-      name: Web We Want
-      author: Tim Berners Lee
-      description:
-
     - uri: http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf
       uri_h: https://via.hypothes.is/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA
       name: The charter of human rights and principles for the internet
       author: Internet Rights and Principles Coalition
       description:
+    
+    - uri: https://tools.ietf.org/html/draft-irtf-hrpc-research-13
+      uri_h: htts://via.hypothes.is/https://tools.ietf.org/html/draft-irtf-hrpc-research-13
+      name: Research into Human Rights Protocol Considerations
+      author: Human Rights Protocol Considerations Research Group
 
     - uri: http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf
       uri_h: https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg
@@ -23,6 +22,12 @@
       author: Die Zeit
       description: |
         The Digital Charta is a German proposal of Net Rights. There is also an available <a href="https://via.hypothes.is/https://digitalcharta.eu/wp-content/uploads/2016/12/Digital-Charta-EN.pdf">english version
+    
+    - uri: https://webwewant.org/
+      uri_h: https://via.hypothes.is/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ
+      name: Web We Want
+      author: Tim Berners Lee
+      description:
 
 - category: STS
   documents:
