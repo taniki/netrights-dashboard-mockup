@@ -13,16 +13,27 @@
 {% for selector in annotation.target[0].selector %}
 {% if selector.type == "TextQuoteSelector" %}
 
-<li class="highlight list-group-item">
+<li class="highlight list-group-item d-block">
 	<p>{{ selector.prefix }} 
 <strong>{{ selector.exact }}</strong> 
 {{ selector.suffix }} 
-	<a href="{{ annotation.links.incontext }}">#</a>
 	</p>
 
+	<div class="comment-info">
+		{{ annotation.user | replace: "acct:", "" | replace: "@hypothes.is", ""  }} - {{ annotation.updated | date_to_string  }} <a href="{{ annotation.links.incontext }}">#</a>
+	</div>
+	
+	{% if annotation.text %}
+	<div class="comment-body text-muted font-italic mb-1">
+		{{ annotation.text }}
+	</div>
+	{% endif %}
+
+	<div class="tags">
 	{% for tag in annotation.tags %}
-	 {% include badge.html name=tag %}&nbsp; 
+		{% include badge.html name=tag %}  
 	{% endfor %}
+	</div>
 </li>
 
 {% endif %}
