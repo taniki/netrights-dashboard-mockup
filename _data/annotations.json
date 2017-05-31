@@ -1,5 +1,64 @@
 [
     {
+        "updated": "2017-05-31T14:28:10.311512+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://nextleap.eu/netrights/articles/Internet%20Bill%20of%20rights-Musiani.pdf",
+                "selector": [
+                    {
+                        "end": 15031,
+                        "type": "TextPositionSelector",
+                        "start": 14777
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ent of the  interested  party.  ",
+                        "exact": "Furthermore,  it  should  grant that   the  storage  of   personal information  does  not  exceed  a  strictly  necessary  period  of  time,  and  allow  the possibility of the interested parties to access the data in order to correct errors at any time.",
+                        "suffix": " Any further regulation on priva"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/Xy7bMkYNEeeQuV8uGHRd6g",
+            "html": "https://hypothes.is/a/Xy7bMkYNEeeQuV8uGHRd6g",
+            "incontext": "https://hyp.is/Xy7bMkYNEeeQuV8uGHRd6g/nextleap.eu/netrights/articles/Internet%20Bill%20of%20rights-Musiani.pdf"
+        },
+        "tags": [
+            "expertise"
+        ],
+        "text": "Most countries don't have any laws about protecting the personal information, or even if they do the law is so vague that can easily be misused from big companies.",
+        "created": "2017-05-31T14:28:10.311512+00:00",
+        "uri": "https://nextleap.eu/netrights/articles/Internet%20Bill%20of%20rights-Musiani.pdf",
+        "id": "Xy7bMkYNEeeQuV8uGHRd6g",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:Iness21@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Microsoft Word - musiani.doc"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "update": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "delete": [
+                "acct:Iness21@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-05-31T14:02:44.835938+00:00",
         "group": "gVjA5P3n",
         "target": [
