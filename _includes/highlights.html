@@ -10,16 +10,20 @@
 
 <ul class="list-group list-group-flush small">
 {% for annotation in document.items %}
-{% for selector in annotation.target[0].selector %}
-{% if selector.type == "TextQuoteSelector" %}
 
 <li class="highlight list-group-item d-block">
+
+
+{% for selector in annotation.target[0].selector %}
+{% if selector.type == "TextQuoteSelector" %}
 	<p>{{ selector.prefix }} 
 <strong>{{ selector.exact }}</strong> 
 {{ selector.suffix }} 
 	</p>
+{% endif %}
+{% endfor %}
 
-	<div class="comment-info">
+<div class="comment-info">
 		{{ annotation.user | replace: "acct:", "" | replace: "@hypothes.is", ""  }} - {{ annotation.updated | date_to_string  }} <a href="{{ annotation.links.incontext }}">#</a>
 	</div>
 	
@@ -36,8 +40,6 @@
 	</div>
 </li>
 
-{% endif %}
-{% endfor %}
 {% endfor %}
 </ul>
 

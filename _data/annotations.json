@@ -1,5 +1,52 @@
 [
     {
+        "updated": "2017-05-31T13:45:24.469862+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://grehack.fr/2017/cfp"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/ZdgzdkYHEeeQRisNd_LEJA",
+            "html": "https://hypothes.is/a/ZdgzdkYHEeeQRisNd_LEJA",
+            "incontext": "https://hyp.is/ZdgzdkYHEeeQRisNd_LEJA/grehack.fr/2017/cfp"
+        },
+        "tags": [
+            "events",
+            "need:discussion"
+        ],
+        "text": "This seems to be an interesting event happening every year involving both academia, hackers and activists.\n\nDoes someone from this group already attend or plan to attend it?",
+        "created": "2017-05-31T13:45:24.469862+00:00",
+        "uri": "https://grehack.fr/2017/cfp",
+        "id": "ZdgzdkYHEeeQRisNd_LEJA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "GreHack'17 | Call For Paper"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-05-31T13:12:08.546076+00:00",
         "group": "gVjA5P3n",
         "target": [
