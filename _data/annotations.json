@@ -1,5 +1,54 @@
 [
     {
+        "updated": "2017-06-01T11:19:05.871764+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.e-flux.com/journal/53/59883/the-black-stack/"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/Go4x5Ea8Eee-ZfMSOq-hNA",
+            "html": "https://hypothes.is/a/Go4x5Ea8Eee-ZfMSOq-hNA",
+            "incontext": "https://hyp.is/7o97iD7dEee5Vh-zi-y35Q/www.e-flux.com/journal/53/59883/the-black-stack/"
+        },
+        "tags": [
+            "need:reference"
+        ],
+        "text": "What are the different meaning of `machine`?",
+        "created": "2017-06-01T11:18:57.118656+00:00",
+        "uri": "http://www.e-flux.com/journal/53/59883/the-black-stack/",
+        "id": "Go4x5Ea8Eee-ZfMSOq-hNA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "references": [
+            "7o97iD7dEee5Vh-zi-y35Q"
+        ],
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Black Stack - Journal #53 March 2014 - e-flux"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-05-31T14:28:10.311512+00:00",
         "group": "gVjA5P3n",
         "target": [
