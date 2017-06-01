@@ -1,6 +1,499 @@
 [
     {
-        "updated": "2017-06-01T11:19:05.871764+00:00",
+        "updated": "2017-06-01T15:25:32.432856+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Internet",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "firstHeading"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 8,
+                        "endContainer": "/div[3]/h1[1]",
+                        "startOffset": 0,
+                        "startContainer": "/div[3]/h1[1]"
+                    },
+                    {
+                        "end": 42,
+                        "type": "TextPositionSelector",
+                        "start": 34
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\t\t\t",
+                        "exact": "Internet",
+                        "suffix": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikiped"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/jVR7OkbeEeebua_wxl7XTw",
+            "html": "https://hypothes.is/a/jVR7OkbeEeebua_wxl7XTw",
+            "incontext": "https://hyp.is/jVR7OkbeEeebua_wxl7XTw/en.wikipedia.org/wiki/Internet"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-01T15:25:32.432856+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Internet",
+        "id": "jVR7OkbeEeebua_wxl7XTw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Internet - Wikipedia, the free encyclopedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T15:24:34.344669+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "firstHeading"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 14,
+                        "endContainer": "/div[3]/h1[1]",
+                        "startOffset": 11,
+                        "startContainer": "/div[3]/h1[1]"
+                    },
+                    {
+                        "end": 47,
+                        "type": "TextPositionSelector",
+                        "start": 44
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\tWorld Wide ",
+                        "exact": "Web",
+                        "suffix": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikiped"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/atKGzkbeEeeqWKco7-hRSA",
+            "html": "https://hypothes.is/a/atKGzkbeEeeqWKco7-hRSA",
+            "incontext": "https://hyp.is/atKGzkbeEeeqWKco7-hRSA/en.wikipedia.org/wiki/World_Wide_Web"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-01T15:24:34.344669+00:00",
+        "uri": "https://en.wikipedia.org/wiki/World_Wide_Web",
+        "id": "atKGzkbeEeeqWKco7-hRSA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "World Wide Web - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T15:23:55.567436+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/End-to-end_encryption",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "firstHeading"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 21,
+                        "endContainer": "/div[3]/h1[1]",
+                        "startOffset": 0,
+                        "startContainer": "/div[3]/h1[1]"
+                    },
+                    {
+                        "end": 54,
+                        "type": "TextPositionSelector",
+                        "start": 33
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t",
+                        "exact": "End-to-end encryption",
+                        "suffix": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikiped"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/U40J7kbeEeeM5Qd9IlQBCQ",
+            "html": "https://hypothes.is/a/U40J7kbeEeeM5Qd9IlQBCQ",
+            "incontext": "https://hyp.is/U40J7kbeEeeM5Qd9IlQBCQ/en.wikipedia.org/wiki/End-to-end_encryption"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-01T15:23:55.567436+00:00",
+        "uri": "https://en.wikipedia.org/wiki/End-to-end_encryption",
+        "id": "U40J7kbeEeeM5Qd9IlQBCQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "End-to-end encryption - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T15:19:34.966392+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Net_neutrality",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "firstHeading"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 14,
+                        "endContainer": "/div[3]/h1[1]",
+                        "startOffset": 0,
+                        "startContainer": "/div[3]/h1[1]"
+                    },
+                    {
+                        "end": 47,
+                        "type": "TextPositionSelector",
+                        "start": 33
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t",
+                        "exact": "Net neutrality",
+                        "suffix": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikiped"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/uDqqZEbdEeeowl9RJ1cgUQ",
+            "html": "https://hypothes.is/a/uDqqZEbdEeeowl9RJ1cgUQ",
+            "incontext": "https://hyp.is/uDqqZEbdEeeowl9RJ1cgUQ/en.wikipedia.org/wiki/Net_neutrality"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-01T15:19:34.966392+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Net_neutrality",
+        "id": "uDqqZEbdEeeowl9RJ1cgUQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Net neutrality - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T15:03:07.820284+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Platform",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "firstHeading"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 8,
+                        "endContainer": "/div[3]/h1[1]",
+                        "startOffset": 0,
+                        "startContainer": "/div[3]/h1[1]"
+                    },
+                    {
+                        "end": 41,
+                        "type": "TextPositionSelector",
+                        "start": 33
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t",
+                        "exact": "Platform",
+                        "suffix": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikiped"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/a96PNEbbEee8DrPmIg2O1Q",
+            "html": "https://hypothes.is/a/a96PNEbbEee8DrPmIg2O1Q",
+            "incontext": "https://hyp.is/a96PNEbbEee8DrPmIg2O1Q/en.wikipedia.org/wiki/Platform"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-01T15:03:07.820284+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Platform",
+        "id": "a96PNEbbEee8DrPmIg2O1Q",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Platform - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T15:02:31.233421+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Infrastructure",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "firstHeading"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 14,
+                        "endContainer": "/div[3]/h1[1]",
+                        "startOffset": 0,
+                        "startContainer": "/div[3]/h1[1]"
+                    },
+                    {
+                        "end": 47,
+                        "type": "TextPositionSelector",
+                        "start": 33
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t",
+                        "exact": "Infrastructure",
+                        "suffix": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikiped"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/VgzqcEbbEee4q7f1o0qxXA",
+            "html": "https://hypothes.is/a/VgzqcEbbEee4q7f1o0qxXA",
+            "incontext": "https://hyp.is/VgzqcEbbEee4q7f1o0qxXA/en.wikipedia.org/wiki/Infrastructure"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-01T15:02:31.233421+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Infrastructure",
+        "id": "VgzqcEbbEee4q7f1o0qxXA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Infrastructure - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T14:52:35.644556+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.e-flux.com/journal/53/59883/the-black-stack/",
+                "selector": [
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 182,
+                        "endContainer": "/div[5]/div[3]/div[1]/div[1]/p[23]",
+                        "startOffset": 175,
+                        "startContainer": "/div[5]/div[3]/div[1]/div[1]/p[23]"
+                    },
+                    {
+                        "end": 24621,
+                        "type": "TextPositionSelector",
+                        "start": 24614
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "xt (a very large text) and as a ",
+                        "exact": "machine",
+                        "suffix": " with various utilities, overflo"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/7o97iD7dEee5Vh-zi-y35Q",
+            "html": "https://hypothes.is/a/7o97iD7dEee5Vh-zi-y35Q",
+            "incontext": "https://hyp.is/7o97iD7dEee5Vh-zi-y35Q/www.e-flux.com/journal/53/59883/the-black-stack/"
+        },
+        "tags": [
+            "need:discussion",
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-05-22T11:00:56.851286+00:00",
+        "uri": "http://www.e-flux.com/journal/53/59883/the-black-stack/",
+        "id": "7o97iD7dEee5Vh-zi-y35Q",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Black Stack - Journal #53 March 2014 - e-flux"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T14:52:28.409792+00:00",
         "group": "gVjA5P3n",
         "target": [
             {
@@ -30,6 +523,149 @@
         "document": {
             "title": [
                 "The Black Stack - Journal #53 March 2014 - e-flux"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T14:28:19.495057+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Threat_model",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "mw-content-text"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 511,
+                        "endContainer": "/div[3]/div[4]/div[4]/p[2]",
+                        "startOffset": 0,
+                        "startContainer": "/div[3]/div[4]/div[4]/p[1]"
+                    },
+                    {
+                        "end": 1240,
+                        "type": "TextPositionSelector",
+                        "start": 176
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "avigation, \t\t\t\t\tsearch\n\t\t\t\t\n\t\t\t\t",
+                        "exact": "Threat modeling is a process by which potential threats can be identified, enumerated, and prioritized \u2013 all from a hypothetical attacker\u2019s point of view. The purpose of threat modeling is to provide defenders with a systematic analysis of the probable attacker\u2019s profile, the most likely attack vectors, and the assets most desired by an attacker. Threat modeling answers the questions \u201cWhere are the high-value assets?\u201d \u201cWhere am I most vulnerable to attack?\u201d \u201cWhat are the most relevant threats?\u201d \u201cIs there an attack vector that might go unnoticed?\u201d\nConceptually, most people incorporate some form of threat modeling in their daily life and don\u2019t even realize it. Commuters use threat modeling to consider what might go wrong during the morning drive to work and to take preemptive action to avoid possible accidents. Children engage in threat modeling when determining the best path toward an intended goal while avoiding the playground bully. In a more formal sense, threat modeling has been used to prioritize military defensive preparations since antiquity.",
+                        "suffix": "\n\n\n\nContents\n\u00a0[hide]\u00a0\n\n1 Evoluti"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/jxSYpEbWEeeVV8Nh_HSAYA",
+            "html": "https://hypothes.is/a/jxSYpEbWEeeVV8Nh_HSAYA",
+            "incontext": "https://hyp.is/jxSYpEbWEeeVV8Nh_HSAYA/en.wikipedia.org/wiki/Threat_model"
+        },
+        "tags": [
+            "threat model",
+            "definition"
+        ],
+        "text": "",
+        "created": "2017-06-01T14:28:19.495057+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Threat_model",
+        "id": "jxSYpEbWEeeVV8Nh_HSAYA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Threat model - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-01T14:10:32.942676+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Threat_model",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "firstHeading"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 12,
+                        "endContainer": "/div[3]/h1[1]",
+                        "startOffset": 0,
+                        "startContainer": "/div[3]/h1[1]"
+                    },
+                    {
+                        "end": 45,
+                        "type": "TextPositionSelector",
+                        "start": 33
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t",
+                        "exact": "Threat model",
+                        "suffix": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikiped"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/E2Et3EbUEeeM3zOiScjr1Q",
+            "html": "https://hypothes.is/a/E2Et3EbUEeeM3zOiScjr1Q",
+            "incontext": "https://hyp.is/E2Et3EbUEeeM3zOiScjr1Q/en.wikipedia.org/wiki/Threat_model"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-01T14:10:32.942676+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Threat_model",
+        "id": "E2Et3EbUEeeM3zOiScjr1Q",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Threat model - Wikipedia"
             ]
         },
         "flagged": false,
@@ -564,72 +1200,6 @@
         "document": {
             "title": [
                 "Machine \u00e0 \u00e9crire et mati\u00e8res \u00e0 penser | Ars Industrialis"
-            ]
-        },
-        "flagged": false,
-        "permissions": {
-            "read": [
-                "group:gVjA5P3n"
-            ],
-            "admin": [
-                "acct:taniki@hypothes.is"
-            ],
-            "update": [
-                "acct:taniki@hypothes.is"
-            ],
-            "delete": [
-                "acct:taniki@hypothes.is"
-            ]
-        }
-    },
-    {
-        "updated": "2017-05-30T13:39:16.662074+00:00",
-        "group": "gVjA5P3n",
-        "target": [
-            {
-                "source": "http://www.e-flux.com/journal/53/59883/the-black-stack/",
-                "selector": [
-                    {
-                        "type": "RangeSelector",
-                        "endOffset": 182,
-                        "endContainer": "/div[5]/div[3]/div[1]/div[1]/p[23]",
-                        "startOffset": 175,
-                        "startContainer": "/div[5]/div[3]/div[1]/div[1]/p[23]"
-                    },
-                    {
-                        "end": 24621,
-                        "type": "TextPositionSelector",
-                        "start": 24614
-                    },
-                    {
-                        "type": "TextQuoteSelector",
-                        "prefix": "xt (a very large text) and as a ",
-                        "exact": "machine",
-                        "suffix": " with various utilities, overflo"
-                    }
-                ]
-            }
-        ],
-        "links": {
-            "json": "https://hypothes.is/api/annotations/7o97iD7dEee5Vh-zi-y35Q",
-            "html": "https://hypothes.is/a/7o97iD7dEee5Vh-zi-y35Q",
-            "incontext": "https://hyp.is/7o97iD7dEee5Vh-zi-y35Q/www.e-flux.com/journal/53/59883/the-black-stack/"
-        },
-        "tags": [
-            "need:discussion"
-        ],
-        "text": "",
-        "created": "2017-05-22T11:00:56.851286+00:00",
-        "uri": "http://www.e-flux.com/journal/53/59883/the-black-stack/",
-        "id": "7o97iD7dEee5Vh-zi-y35Q",
-        "moderation": {
-            "flagCount": 0
-        },
-        "user": "acct:taniki@hypothes.is",
-        "hidden": false,
-        "document": {
-            "title": [
-                "The Black Stack - Journal #53 March 2014 - e-flux"
             ]
         },
         "flagged": false,

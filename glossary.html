@@ -1,0 +1,99 @@
+---
+---
+
+{% assign terms = ""  | split : "|" %}
+
+{% for annotation in site.data.annotations %}
+{% if annotation.tags contains "+glossary" %}
+	{% assign term = "XXX" %}
+
+
+	{% for selector in annotation.target[0].selector %}
+		{% if selector.type == "TextQuoteSelector" %}
+			{% assign term = selector.exact | downcase %}
+		{% endif %}
+	{% endfor %}
+
+	{% assign terms = terms | push: term %}
+{% endif %}
+{% endfor %}
+
+<div class="container">
+
+<h1>Net Rights Contributions <span class="text-muted">/ Glossary</span></h1>
+	
+<div class="row">
+
+<div class="col col-3">
+{% assign index = terms | sort | group_by_exp: "t", 't | truncate: 1, ""' %}
+
+<ul id="index" class="sticky-top text-muted p-0 small">
+{% for letter in index %}
+<li>
+	{{ letter.name }}
+
+	<ul class="p-0 mb-2">
+	{% for term in letter.items %}
+	<li><a href="#{{ term | slugify  }}">{{ term  }}</a></li>
+	{% endfor %}
+	</ul>
+</li>
+{% endfor %}
+</ul>
+</div>
+
+<div class="col col-9">
+{% assign terms = terms | sort %}	
+{% for term in terms %}
+<div class="term mt-3">
+<h3 id="{{ term | slugify }}">
+	{{ term }}
+
+{% for annotation in site.data.annotations %}
+
+{% for selector in annotation.target[0].selector %}
+	{% if selector.type == "TextQuoteSelector" %}
+		{% assign exact = selector.exact | downcase %}
+	{% endif %}
+{% endfor %}
+
+{% if exact == term and annotation.tags contains "+glossary" %}
+<a href="{{ annotation.links.incontext }}">#</a>
+{% endif %}
+{% endfor %}
+
+</h3>
+
+<h6 class="text-muted">Definitions</h6>
+{% for annotation in site.data.annotations %}
+{% if annotation.tags contains term and annotation.tags contains "definition" %}
+	{% include card.quote.html %}
+{% endif %}
+{% endfor %}
+
+<h6 class="text-muted">References</h6>
+
+<div class="card-columns">
+{% for annotation in site.data.annotations %}
+
+{% assign exact = "" %}
+
+{% for selector in annotation.target[0].selector %}
+	{% if selector.type == "TextQuoteSelector" %}
+		{% assign exact = selector.exact | downcase %}
+	{% endif %}
+{% endfor %}
+
+{% if exact contains term %}
+{% unless annotation.tags contains "+glossary" %}
+{% include card.quote.html %}
+{% endunless %}
+{% endif %}
+{% endfor %}
+</div>
+
+</div>
+{% endfor %}
+</div>
+</div>
+</div>
