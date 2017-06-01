@@ -1,20 +1,3 @@
-- tag: need:expertise
-  description: Use this tag when you need an expert advice about a topic
-  badge: primary
-
-- tag: need:discussion
-  description: Use this tag when you want to start a discussion about a topic
-  badge: primary
-
-- tag: need:collective_action
-  badge: primary
-
-- tag: controversial
-  badge: danger
-
-- tag: reference
-  badge: warning
-
 - tag: decentralization
   badge: topic
 

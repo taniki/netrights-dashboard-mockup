@@ -1,15 +1,32 @@
-- tag: ++
-  description: approval
-  id: approval
+- tag: need:expertise
+  description: Use this tag when you need an expert advice about a topic
+  id: primary
 
-- tag: --
-  description: disapproval
-  id: disapproval
+- tag: need:discussion
+  description: Use this tag when you want to start a discussion about a topic
+  id: primary
 
-- tag: ??
-  description: ask a question
-  id: question
+- tag: need:collective_action
+  id: primary
 
-- tag: ==
-  description: add a reference/source
-  id: reference
+- tag: controversial
+  id: danger
+
+- tag: reference
+  id: warning
+
+# - tag: ++
+#   description: approval
+#   id: approval
+# 
+# - tag: --
+#   description: disapproval
+#   id: disapproval
+# 
+# - tag: ??
+#   description: ask a question
+#   id: question
+# 
+# - tag: ==
+#   description: add a reference/source
+#   id: reference
