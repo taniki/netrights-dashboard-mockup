@@ -56,7 +56,7 @@
 <dl>
 {% for tag in site.data.polemictweet %}
 <dt><span class="badge badge-{{ tag["id"] }}">{{ tag["tag"] }}</span></dt>
-<dd>{{ tag["description"]  }}</dd>
+<dd class="small">{{ tag["description"]  }}</dd>
 {% endfor %}
 </dl>
 
