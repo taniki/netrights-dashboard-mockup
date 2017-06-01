@@ -45,7 +45,14 @@ h1 {
 		font-weight: normal;
 	}
 }
+
+.card-header {
+	word-wrap: break-word;
+}
+
 .comment-body {
+	word-wrap: break-word;
+	
 	p:last-child {
 		margin-bottom: 0;
 	}
