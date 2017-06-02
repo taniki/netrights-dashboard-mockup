@@ -1,5 +1,511 @@
 [
     {
+        "updated": "2017-06-02T13:16:07.378729+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "start-of-content"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 647,
+                        "endContainer": "/main[1]/div[1]/section[1]/article[1]/p[18]",
+                        "startOffset": 234,
+                        "startContainer": "/main[1]/div[1]/section[1]/article[1]/p[18]"
+                    },
+                    {
+                        "end": 11352,
+                        "type": "TextPositionSelector",
+                        "start": 10939
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "e had implemented it,\u201d he says. ",
+                        "exact": "Gardner-Stephen helped build Serval, a decentralized messaging app that can spread texts in a peer-to-peer fashion without the need for a traditional telco carrier. But he quickly realized, as the Pied Piper team likely will, that trying to turn people\u2019s mobile phones into servers drains their batteries too quickly to be practical. Today, the Serval team relies on solar powered base stations to relay messages.",
+                        "suffix": "\nServal and similar apps like Fi"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/o22wAEeVEeeFZgf_1mbhNA",
+            "html": "https://hypothes.is/a/o22wAEeVEeeFZgf_1mbhNA",
+            "incontext": "https://hyp.is/o22wAEeVEeeFZgf_1mbhNA/www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/"
+        },
+        "tags": [
+            "decentralization",
+            "communication"
+        ],
+        "text": "",
+        "created": "2017-06-02T13:16:07.378729+00:00",
+        "uri": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+        "id": "o22wAEeVEeeFZgf_1mbhNA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Pied Piper\u2019s New Internet Isn\u2019t Just Possible\u2014It\u2019s Almost Here"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-02T13:15:17.892382+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "start-of-content"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 650,
+                        "endContainer": "/main[1]/div[1]/section[1]/article[1]/p[16]",
+                        "startOffset": 560,
+                        "startContainer": "/main[1]/div[1]/section[1]/article[1]/p[16]"
+                    },
+                    {
+                        "end": 10226,
+                        "type": "TextPositionSelector",
+                        "start": 10136
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": " notoriously difficult problem. ",
+                        "exact": "Getting people to use what amounts to a whole new version of the web could be even harder.",
+                        "suffix": "\nMesh\nEven if IPFS, Storj, or on"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/heYwcEeVEeeSV1_vLUmIHg",
+            "html": "https://hypothes.is/a/heYwcEeVEeeSV1_vLUmIHg",
+            "incontext": "https://hyp.is/heYwcEeVEeeSV1_vLUmIHg/www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/"
+        },
+        "tags": [
+            "issue",
+            "change resistance"
+        ],
+        "text": "",
+        "created": "2017-06-02T13:15:17.892382+00:00",
+        "uri": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+        "id": "heYwcEeVEeeSV1_vLUmIHg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Pied Piper\u2019s New Internet Isn\u2019t Just Possible\u2014It\u2019s Almost Here"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-02T13:13:22.608517+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "start-of-content"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 489,
+                        "endContainer": "/main[1]/div[1]/section[1]/article[1]/p[13]",
+                        "startOffset": 187,
+                        "startContainer": "/main[1]/div[1]/section[1]/article[1]/p[13]"
+                    },
+                    {
+                        "end": 8740,
+                        "type": "TextPositionSelector",
+                        "start": 8438
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ers want to remove old content. ",
+                        "exact": "IPFS creator Juan Benet told us last year that the project is trying to work out ways to let publishers \u201crecall\u201d pages that are being shared. But that idea is also fraught. What\u2019s to stop a government censor from using the recall feature? What happens if someone creates a version that ignores recalls?",
+                        "suffix": "\nThen there are moral and legal "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/QTDuykeVEeeBxQstqhm-ng",
+            "html": "https://hypothes.is/a/QTDuykeVEeeBxQstqhm-ng",
+            "incontext": "https://hyp.is/QTDuykeVEeeBxQstqhm-ng/www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/"
+        },
+        "tags": [
+            "publisher",
+            "issue"
+        ],
+        "text": "",
+        "created": "2017-06-02T13:13:22.608517+00:00",
+        "uri": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+        "id": "QTDuykeVEeeBxQstqhm-ng",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Pied Piper\u2019s New Internet Isn\u2019t Just Possible\u2014It\u2019s Almost Here"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-02T13:05:22.065234+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "start-of-content"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 345,
+                        "endContainer": "/main[1]/div[1]/section[1]/article[1]/p[10]",
+                        "startOffset": 142,
+                        "startContainer": "/main[1]/div[1]/section[1]/article[1]/p[10]"
+                    },
+                    {
+                        "end": 7553,
+                        "type": "TextPositionSelector",
+                        "start": 7350
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "rvice, not a whole new internet.",
+                        "exact": "  A more ambitious project called IPFS (short for \u201cInterplanetary File System\u201d) is probably a bit closer to Richard\u2019s grand vision of a censorship-resistant internet with privacy features built right in.",
+                        "suffix": "\nThe idea behind IPFS is to have"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/Ir5P9keUEeeVl2c5BJOCuw",
+            "html": "https://hypothes.is/a/Ir5P9keUEeeVl2c5BJOCuw",
+            "incontext": "https://hyp.is/Ir5P9keUEeeVl2c5BJOCuw/www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/"
+        },
+        "tags": [
+            "decentralization",
+            "technology",
+            "infrastructure"
+        ],
+        "text": "",
+        "created": "2017-06-02T13:05:22.065234+00:00",
+        "uri": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+        "id": "Ir5P9keUEeeVl2c5BJOCuw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Pied Piper\u2019s New Internet Isn\u2019t Just Possible\u2014It\u2019s Almost Here"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-02T13:04:01.081004+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "start-of-content"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 440,
+                        "endContainer": "/main[1]/div[1]/section[1]/article[1]/p[6]",
+                        "startOffset": 0,
+                        "startContainer": "/main[1]/div[1]/section[1]/article[1]/p[6]"
+                    },
+                    {
+                        "end": 6230,
+                        "type": "TextPositionSelector",
+                        "start": 5790
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "rrently pay giants like Amazon.\n",
+                        "exact": "The closest thing to what\u2019s described on Silicon Valley might be Storj, a decentralized cloud storage company. Much like Pied Piper, Storj has built a network of people who sell their unused storage capacity. If you want to buy space on the Storj network, you upload your files and the company splits them up into smaller pieces, encrypts them so that no one but you can read your data, and then distributes those pieces across its network.",
+                        "suffix": "\n\u201cYou control your own encryptio"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/6PQkEkeTEeeQy8PeF-FzPQ",
+            "html": "https://hypothes.is/a/6PQkEkeTEeeQy8PeF-FzPQ",
+            "incontext": "https://hyp.is/6PQkEkeTEeeQy8PeF-FzPQ/www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/"
+        },
+        "tags": [
+            "technology",
+            "decentralization",
+            "storage",
+            "encryption"
+        ],
+        "text": "",
+        "created": "2017-06-02T13:03:45.093009+00:00",
+        "uri": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+        "id": "6PQkEkeTEeeQy8PeF-FzPQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Pied Piper\u2019s New Internet Isn\u2019t Just Possible\u2014It\u2019s Almost Here"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-02T13:02:52.069048+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "start-of-content"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 436,
+                        "endContainer": "/main[1]/div[1]/section[1]/article[1]/p[4]",
+                        "startOffset": 0,
+                        "startContainer": "/main[1]/div[1]/section[1]/article[1]/p[4]"
+                    },
+                    {
+                        "end": 5133,
+                        "type": "TextPositionSelector",
+                        "start": 4697
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ols internet access completely.\n",
+                        "exact": "Given those very non-utopian realities, people in the real world are also hard at work trying to rebuild the internet in a way that comes closer to the decentralized ideal. They\u2019re still pretty far from Richard\u2019s utopian vision, but it\u2019s already possible to do some of what he describes. Still, it\u2019s not enough to just cut out today\u2019s internet power players. You also need to build a new internet that people will actually want to use. ",
+                        "suffix": "\nStorage Everywhere\nOn the show,"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/yV5uvkeTEeeOhR_bER4Z7g",
+            "html": "https://hypothes.is/a/yV5uvkeTEeeOhR_bER4Z7g",
+            "incontext": "https://hyp.is/yV5uvkeTEeeOhR_bER4Z7g/www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/"
+        },
+        "tags": [
+            "infrastructure"
+        ],
+        "text": "",
+        "created": "2017-06-02T13:02:52.069048+00:00",
+        "uri": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+        "id": "yV5uvkeTEeeOhR_bER4Z7g",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Pied Piper\u2019s New Internet Isn\u2019t Just Possible\u2014It\u2019s Almost Here"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-02T13:02:08.293574+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "start-of-content"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 322,
+                        "endContainer": "/main[1]/div[1]/section[1]/article[1]/p[3]",
+                        "startOffset": 0,
+                        "startContainer": "/main[1]/div[1]/section[1]/article[1]/p[3]"
+                    },
+                    {
+                        "end": 4012,
+                        "type": "TextPositionSelector",
+                        "start": 3690
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "reams\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\n\n\n",
+                        "exact": "But wait: Isn\u2019t the internet already a decentralized network that no one owns? In theory, yes. But in practice, a small number of enormous companies control or at least mediate so much of the internet. Sure, anyone can publish whatever they want to the web. But without Facebook and Google, will anyone be able to find it?",
+                        "suffix": " Amazon, meanwhile, controls not"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/r0wE-keTEeeFZUNssiWynQ",
+            "html": "https://hypothes.is/a/r0wE-keTEeeFZUNssiWynQ",
+            "incontext": "https://hyp.is/r0wE-keTEeeFZUNssiWynQ/www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/"
+        },
+        "tags": [
+            "decentralization",
+            "need:discussion"
+        ],
+        "text": "",
+        "created": "2017-06-02T13:02:08.293574+00:00",
+        "uri": "https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/",
+        "id": "r0wE-keTEeeFZUNssiWynQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Pied Piper\u2019s New Internet Isn\u2019t Just Possible\u2014It\u2019s Almost Here"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-06-01T15:25:32.432856+00:00",
         "group": "gVjA5P3n",
         "target": [
