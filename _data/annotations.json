@@ -1,5 +1,243 @@
 [
     {
+        "updated": "2017-06-06T10:33:13.205032+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/03l0SkqiEeep0uv5VmVpJQ",
+            "html": "https://hypothes.is/a/03l0SkqiEeep0uv5VmVpJQ",
+            "incontext": "https://hyp.is/03l0SkqiEeep0uv5VmVpJQ/www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics"
+        },
+        "tags": [
+            "political threat",
+            "crypto-anarchism",
+            "politic"
+        ],
+        "text": "I have only quickly read the article on my phone and have not yet taken time to annotate it correctly.\n\nThere is several issues here:\n- The neutral definition of \"crypto-anarchism\" without distinguishing crypto-capitalism and anti-tech parts.\n- The focus on bitcoin and crypto-currencies without a word about actual encryption or means of communication\n- The negative statu quo of power.\n- The article is very aligned with mainstream imagination of \"crypto = hacking\"",
+        "created": "2017-06-06T10:28:04.972977+00:00",
+        "uri": "https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics",
+        "id": "03l0SkqiEeep0uv5VmVpJQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Forget far-right populism \u2013 crypto-anarchists are the new masters"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-06T10:29:58.372042+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "article"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 908,
+                        "endContainer": "/div[6]/article[1]/div[4]/div[1]/div[1]/div[5]/p[26]",
+                        "startOffset": 884,
+                        "startContainer": "/div[6]/article[1]/div[4]/div[1]/div[1]/div[5]/p[26]"
+                    },
+                    {
+                        "end": 27749,
+                        "type": "TextPositionSelector",
+                        "start": 27725
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": " likely is that groups like the ",
+                        "exact": "Prague crypto-anarchists",
+                        "suffix": ", who will embrace the changes a"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/FwwW6kqjEeeramtfukyu4w",
+            "html": "https://hypothes.is/a/FwwW6kqjEeeramtfukyu4w",
+            "incontext": "https://hyp.is/FwwW6kqjEeeramtfukyu4w/www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics"
+        },
+        "tags": [
+            "organization"
+        ],
+        "text": "",
+        "created": "2017-06-06T10:29:58.372042+00:00",
+        "uri": "https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics",
+        "id": "FwwW6kqjEeeramtfukyu4w",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Forget far-right populism \u2013 crypto-anarchists are the new masters"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-05T22:50:05.575753+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://boingboing.net/2017/06/05/nyet.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "story"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 94,
+                        "endContainer": "/div[3]/div[5]/p[3]/span[2]",
+                        "startOffset": 94,
+                        "startContainer": "/div[3]/div[5]/p[3]/span[2]"
+                    },
+                    {
+                        "end": 4388,
+                        "type": "TextPositionSelector",
+                        "start": 4388
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ounts, the GRU hackers launched ",
+                        "exact": "",
+                        "suffix": "spearphishing attacks against 12"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/UWpLykpBEeeQ33cJB7EaaQ",
+            "html": "https://hypothes.is/a/UWpLykpBEeeQ33cJB7EaaQ",
+            "incontext": "https://hyp.is/UWpLykpBEeeQ33cJB7EaaQ/boingboing.net/2017/06/05/nyet.html"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-05T22:50:05.575753+00:00",
+        "uri": "https://boingboing.net/2017/06/05/nyet.html",
+        "id": "UWpLykpBEeeQ33cJB7EaaQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Leaked NSA docs: Russian military hacked US voting software company, spearphished 122 election officials"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-02T14:03:12.064184+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.eventbrite.co.uk/e/digital-needs-and-the-commons-under-informational-capitalism-tickets-33491158958"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/Nx21GkecEeeL11d0zIs-bA",
+            "html": "https://hypothes.is/a/Nx21GkecEeeL11d0zIs-bA",
+            "incontext": "https://hyp.is/Nx21GkecEeeL11d0zIs-bA/www.eventbrite.co.uk/e/digital-needs-and-the-commons-under-informational-capitalism-tickets-33491158958"
+        },
+        "tags": [
+            "event",
+            "informational capitalism",
+            "critical theory"
+        ],
+        "text": "",
+        "created": "2017-06-02T14:03:12.064184+00:00",
+        "uri": "https://www.eventbrite.co.uk/e/digital-needs-and-the-commons-under-informational-capitalism-tickets-33491158958",
+        "id": "Nx21GkecEeeL11d0zIs-bA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Digital Needs and the Commons under Informational Capitalism"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-06-02T13:16:07.378729+00:00",
         "group": "gVjA5P3n",
         "target": [
