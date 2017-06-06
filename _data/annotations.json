@@ -1,5 +1,389 @@
 [
     {
+        "updated": "2017-06-06T14:38:32.730589+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://boingboing.net/2017/06/04/theresa-may-king-canute.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "text"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 0,
+                        "endContainer": "/article[1]/p[6]/span[2]",
+                        "startOffset": 0,
+                        "startContainer": "/article[1]/p[6]/span[1]"
+                    },
+                    {
+                        "end": 11483,
+                        "type": "TextPositionSelector",
+                        "start": 11331
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ery single word still applies.\n\n",
+                        "exact": "Theresa May says there should be no \"means of communication\" which \"we cannot read\" -- and no doubt many in her party will agree with her, politically. ",
+                        "suffix": "But if they understood the techn"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/0LkChErFEeeyS_vcKnyXXQ",
+            "html": "https://hypothes.is/a/0LkChErFEeeyS_vcKnyXXQ",
+            "incontext": "https://hyp.is/0LkChErFEeeyS_vcKnyXXQ/boingboing.net/2017/06/04/theresa-may-king-canute.html"
+        },
+        "tags": [
+            "political threat",
+            "secrecy"
+        ],
+        "text": "",
+        "created": "2017-06-06T14:38:32.730589+00:00",
+        "uri": "https://boingboing.net/2017/06/04/theresa-may-king-canute.html",
+        "id": "0LkChErFEeeyS_vcKnyXXQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Theresa May wants to ban crypto: here's what that would cost, and here's why it won't work anyway"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-06T14:37:37.647942+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://boingboing.net/2017/06/04/theresa-may-king-canute.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "text"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 0,
+                        "endContainer": "/article[1]/p[2]/span[1]",
+                        "startOffset": 0,
+                        "startContainer": "/article[1]/p[2]/span[1]"
+                    },
+                    {
+                        "end": 10448,
+                        "type": "TextPositionSelector",
+                        "start": 10448
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "1'); });\n\nreport this ad\n\n\n\n\t\t\n\n",
+                        "exact": "",
+                        "suffix": "He was talking to law-makers, po"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/sAYWJkrFEee_uKe_jEiLhw",
+            "html": "https://hypothes.is/a/sAYWJkrFEee_uKe_jEiLhw",
+            "incontext": "https://hyp.is/sAYWJkrFEee_uKe_jEiLhw/boingboing.net/2017/06/04/theresa-may-king-canute.html"
+        },
+        "tags": [
+            "backdoor"
+        ],
+        "text": "",
+        "created": "2017-06-06T14:37:37.647942+00:00",
+        "uri": "https://boingboing.net/2017/06/04/theresa-may-king-canute.html",
+        "id": "sAYWJkrFEee_uKe_jEiLhw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Theresa May wants to ban crypto: here's what that would cost, and here's why it won't work anyway"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-06T14:37:12.119047+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://boingboing.net/2017/06/04/theresa-may-king-canute.html"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/oK1rSErFEeemQ3sMqyQiRA",
+            "html": "https://hypothes.is/a/oK1rSErFEeemQ3sMqyQiRA",
+            "incontext": "https://hyp.is/oK1rSErFEeemQ3sMqyQiRA/boingboing.net/2017/06/04/theresa-may-king-canute.html"
+        },
+        "tags": [
+            "political threat",
+            "cryptography",
+            "theresa may",
+            "need:discussion"
+        ],
+        "text": "Not the first time policians are into this kind of misunderstanding. Can we stop them? Is that a subterfuge for something else?",
+        "created": "2017-06-06T14:37:12.119047+00:00",
+        "uri": "https://boingboing.net/2017/06/04/theresa-may-king-canute.html",
+        "id": "oK1rSErFEeemQ3sMqyQiRA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Theresa May wants to ban crypto: here's what that would cost, and here's why it won't work anyway"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-06T13:06:03.571460+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "post-body-6649013000572689376"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 2613,
+                        "endContainer": "/div[3]/div[2]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                        "startOffset": 2427,
+                        "startContainer": "/div[3]/div[2]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+                    },
+                    {
+                        "end": 3461,
+                        "type": "TextPositionSelector",
+                        "start": 3275
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "h the Wikileaks election leaks. ",
+                        "exact": "These sorts of failures are common with leaks. To fix this yellow-dot problem, use a black-and-white printer, black-and-white scanner, or convert to black-and-white with an image editor.",
+                        "suffix": "\n\nPrinters have two features put"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/5SPseEq4Eeech99_Ag27BA",
+            "html": "https://hypothes.is/a/5SPseEq4Eeech99_Ag27BA",
+            "incontext": "https://hyp.is/5SPseEq4Eeech99_Ag27BA/blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html"
+        },
+        "tags": [
+            "surveillance",
+            "wikileaks"
+        ],
+        "text": "",
+        "created": "2017-06-06T13:06:03.571460+00:00",
+        "uri": "http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html",
+        "id": "5SPseEq4Eeech99_Ag27BA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "How The Intercept Outed Reality Winner"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-06T13:03:59.315096+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/mx4glEq4EeeWZDv0lKHBMw",
+            "html": "https://hypothes.is/a/mx4glEq4EeeWZDv0lKHBMw",
+            "incontext": "https://hyp.is/mx4glEq4EeeWZDv0lKHBMw/blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html"
+        },
+        "tags": [
+            "need:expertise",
+            "cryptography"
+        ],
+        "text": "",
+        "created": "2017-06-06T13:03:59.315096+00:00",
+        "uri": "http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html",
+        "id": "mx4glEq4EeeWZDv0lKHBMw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "How The Intercept Outed Reality Winner"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-06T12:53:21.037515+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.nytimes.com/2017/06/04/business/oculus-palmer-luckey-new-start-up.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "story"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 302,
+                        "endContainer": "/div[4]/div[2]/main[1]/article[1]/div[4]/div[1]/p[17]",
+                        "startOffset": 0,
+                        "startContainer": "/div[4]/div[2]/main[1]/article[1]/div[4]/div[1]/p[16]"
+                    },
+                    {
+                        "end": 27559,
+                        "type": "TextPositionSelector",
+                        "start": 26886
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": " his political activities broke.",
+                        "exact": "Soon after, he was working on his next start-up idea: The company plans to use a technology found in self-driving cars called lidar \u2014 shorthand for light detection and ranging \u2014 as well as infrared sensors and cameras to monitor borders for illegal crossings, according to the three people familiar with the plan.\n    \n    Advertisement\n\nContinue reading the main story\n\nAs as he sees it, according to those familiar with the plan, the technology can be used for many kinds of perimeter security, including military bases and stadium events, where it could be used to detect drones. Software would help the system figure out which objects to ignore, like birds and coyotes.",
+                        "suffix": "Those familiar with the plan say"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/HqVbgkq3Eee6Vq8RpMQ_bg",
+            "html": "https://hypothes.is/a/HqVbgkq3Eee6Vq8RpMQ_bg",
+            "incontext": "https://hyp.is/HqVbgkq3Eee6Vq8RpMQ_bg/www.nytimes.com/2017/06/04/business/oculus-palmer-luckey-new-start-up.html"
+        },
+        "tags": [
+            "surveillance",
+            "platform",
+            "political threat"
+        ],
+        "text": "",
+        "created": "2017-06-06T12:53:21.037515+00:00",
+        "uri": "https://www.nytimes.com/2017/06/04/business/oculus-palmer-luckey-new-start-up.html",
+        "id": "HqVbgkq3Eee6Vq8RpMQ_bg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Oculus Founder Plots a Comeback With a Virtual Border Wall"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-06-06T10:33:13.205032+00:00",
         "group": "gVjA5P3n",
         "target": [

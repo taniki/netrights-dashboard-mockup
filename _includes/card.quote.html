@@ -10,11 +10,13 @@
 {% if selector.type == "TextQuoteSelector" %}
 
 <li class="highlight list-group-item">
+	<div class="exact">
 	<p>{{ selector.prefix }} 
-<strong>{{ selector.exact }}</strong> 
-{{ selector.suffix }} 
+	<strong>{{ selector.exact }}</strong> 
+	{{ selector.suffix }} 
 	<a href="{{ annotation.links.incontext }}">#</a>
 	</p>
+	</div>
 
 	{% for tag in annotation.tags %}
 	 {% include badge.html name=tag %}&nbsp; 
