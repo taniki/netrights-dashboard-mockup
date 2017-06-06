@@ -4,7 +4,7 @@
 
 	<div class="media-body">
   	<h5 class="mt-0 mb-1">
-			{{ annotation.user | remove: "acct:" | remove: "@hypothes.is" }}
+			<strong>{{ annotation.user | remove: "acct:" | replace: "@hypothes.is", '<span class="text-muted">@hypothes.is</span>' }}</strong>
 			<small class="text-muted">{{ annotation.updated | date_to_string }}</small>
 		</h5>
 
