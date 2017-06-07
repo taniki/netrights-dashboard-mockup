@@ -1,5 +1,221 @@
 [
     {
+        "updated": "2017-06-07T09:49:21.157480+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://boingboing.net/2017/06/05/nyet.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "story"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 107,
+                        "endContainer": "/div[3]/div[5]/p[3]/span[2]",
+                        "startOffset": 94,
+                        "startContainer": "/div[3]/div[5]/p[3]/span[2]"
+                    },
+                    {
+                        "end": 4481,
+                        "type": "TextPositionSelector",
+                        "start": 4468
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ounts, the GRU hackers launched ",
+                        "exact": "spearphishing",
+                        "suffix": " attacks against 122 US voting o"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/lMf11ktmEeefgVuKjDoy_Q",
+            "html": "https://hypothes.is/a/lMf11ktmEeefgVuKjDoy_Q",
+            "incontext": "https://hyp.is/lMf11ktmEeefgVuKjDoy_Q/boingboing.net/2017/06/05/nyet.html"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-06-07T09:49:21.157480+00:00",
+        "uri": "https://boingboing.net/2017/06/05/nyet.html",
+        "id": "lMf11ktmEeefgVuKjDoy_Q",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Leaked NSA docs: Russian military hacked US voting software company, spearphished 122 election officials"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-07T08:31:37.835316+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://motherboard.vice.com/en_us/article/snowden-prosecuting-nsa-leaker-reality-winner-is-a-fundamental-threat-to-the-free-press"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/uTHNvEtbEeeB9WOiqSeYXA",
+            "html": "https://hypothes.is/a/uTHNvEtbEeeB9WOiqSeYXA",
+            "incontext": "https://hyp.is/uTHNvEtbEeeB9WOiqSeYXA/motherboard.vice.com/en_us/article/snowden-prosecuting-nsa-leaker-reality-winner-is-a-fundamental-threat-to-the-free-press"
+        },
+        "tags": [
+            "leaks",
+            "snowden",
+            "political threat"
+        ],
+        "text": "",
+        "created": "2017-06-07T08:31:37.835316+00:00",
+        "uri": "https://motherboard.vice.com/en_us/article/snowden-prosecuting-nsa-leaker-reality-winner-is-a-fundamental-threat-to-the-free-press",
+        "id": "uTHNvEtbEeeB9WOiqSeYXA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Snowden: Prosecuting NSA Leaker Reality Winner Is a 'Fundamental Threat to the Free Press'"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-06T16:18:37.211318+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://communication.revues.org/5986"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/y7cPjkrTEee5N18tmWgXSg",
+            "html": "https://hypothes.is/a/y7cPjkrTEee5N18tmWgXSg",
+            "incontext": "https://hyp.is/y7cPjkrTEee5N18tmWgXSg/communication.revues.org/5986"
+        },
+        "tags": [
+            "identity",
+            "need:discussion",
+            "lang:fr",
+            "platform"
+        ],
+        "text": "",
+        "created": "2017-06-06T16:18:37.211318+00:00",
+        "uri": "http://communication.revues.org/5986",
+        "id": "y7cPjkrTEee5N18tmWgXSg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "S\u2019inscrire en faux. Les fakes et les politiques de l\u2019identit\u00e9 des publics connect\u00e9s"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-06T16:16:25.647715+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://poseidon01.ssrn.com/delivery.php?ID=695120099066115014025110122070067092097036019031031092110087126090070086089113070093056035048125008059096097004068023079118121038022089021065117019081112113100064024046007087086071084082070080122117005114081014068085072015006112095010007020118102024&EXT=pdf"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/fTjDUkrTEeeGbeuJShXLfw",
+            "html": "https://hypothes.is/a/fTjDUkrTEeeGbeuJShXLfw",
+            "incontext": "https://hyp.is/fTjDUkrTEeeGbeuJShXLfw/poseidon01.ssrn.com/delivery.php?ID=695120099066115014025110122070067092097036019031031092110087126090070086089113070093056035048125008059096097004068023079118121038022089021065117019081112113100064024046007087086071084082070080122117005114081014068085072015006112095010007020118102024&EXT=pdf"
+        },
+        "tags": [
+            "need:discussion",
+            "eid",
+            "identity"
+        ],
+        "text": "",
+        "created": "2017-06-06T16:16:25.647715+00:00",
+        "uri": "https://poseidon01.ssrn.com/delivery.php?ID=695120099066115014025110122070067092097036019031031092110087126090070086089113070093056035048125008059096097004068023079118121038022089021065117019081112113100064024046007087086071084082070080122117005114081014068085072015006112095010007020118102024&EXT=pdf",
+        "id": "fTjDUkrTEeeGbeuJShXLfw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "1-college of law seal.pdf"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-06-06T14:38:32.730589+00:00",
         "group": "gVjA5P3n",
         "target": [
@@ -484,77 +700,6 @@
         "document": {
             "title": [
                 "Forget far-right populism \u2013 crypto-anarchists are the new masters"
-            ]
-        },
-        "flagged": false,
-        "permissions": {
-            "read": [
-                "group:gVjA5P3n"
-            ],
-            "admin": [
-                "acct:taniki@hypothes.is"
-            ],
-            "update": [
-                "acct:taniki@hypothes.is"
-            ],
-            "delete": [
-                "acct:taniki@hypothes.is"
-            ]
-        }
-    },
-    {
-        "updated": "2017-06-05T22:50:05.575753+00:00",
-        "group": "gVjA5P3n",
-        "target": [
-            {
-                "source": "https://boingboing.net/2017/06/05/nyet.html",
-                "selector": [
-                    {
-                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
-                        "type": "FragmentSelector",
-                        "value": "story"
-                    },
-                    {
-                        "type": "RangeSelector",
-                        "endOffset": 94,
-                        "endContainer": "/div[3]/div[5]/p[3]/span[2]",
-                        "startOffset": 94,
-                        "startContainer": "/div[3]/div[5]/p[3]/span[2]"
-                    },
-                    {
-                        "end": 4388,
-                        "type": "TextPositionSelector",
-                        "start": 4388
-                    },
-                    {
-                        "type": "TextQuoteSelector",
-                        "prefix": "ounts, the GRU hackers launched ",
-                        "exact": "",
-                        "suffix": "spearphishing attacks against 12"
-                    }
-                ]
-            }
-        ],
-        "links": {
-            "json": "https://hypothes.is/api/annotations/UWpLykpBEeeQ33cJB7EaaQ",
-            "html": "https://hypothes.is/a/UWpLykpBEeeQ33cJB7EaaQ",
-            "incontext": "https://hyp.is/UWpLykpBEeeQ33cJB7EaaQ/boingboing.net/2017/06/05/nyet.html"
-        },
-        "tags": [
-            "+glossary"
-        ],
-        "text": "",
-        "created": "2017-06-05T22:50:05.575753+00:00",
-        "uri": "https://boingboing.net/2017/06/05/nyet.html",
-        "id": "UWpLykpBEeeQ33cJB7EaaQ",
-        "moderation": {
-            "flagCount": 0
-        },
-        "user": "acct:taniki@hypothes.is",
-        "hidden": false,
-        "document": {
-            "title": [
-                "Leaked NSA docs: Russian military hacked US voting software company, spearphished 122 election officials"
             ]
         },
         "flagged": false,

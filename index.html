@@ -8,7 +8,7 @@ annotations = {{ site.data.annotations | jsonify }}
 
 <div class="container">
 
-	<h1>Net Rights Contributions</h1>
+	<h1>Net Rights + Cryptography + Decentralization</h1>
 
 	<div class="row">
 		<div class="col col-3">
@@ -28,37 +28,13 @@ annotations = {{ site.data.annotations | jsonify }}
   		<li class="nav-item">
     		<a class="nav-link" data-toggle="tab" href="#highlights" role="tab">Annotations</a>
   		</li>
-			<li class="nav-item ml-auto">
-    		<a class="nav-link" data-toggle="tab" href="#feed" role="tab">Feed</a>
-  		</li>
+			<li class="nav-item">
+				<a class="nav-link" href="glossary.html">Glossary</a> 
+			</li>
 		</ul>
 	
 
 		<div class="tab-content">
-		<div id="feed" class="tab-pane" role="tabpanel">
-			{% for annotation in site.data.annotations %}
-			<div class="annotation">
-				<span class="small">{{ annotation["created"] | date_to_string }}</span> <a href="{{ annotation["uri"]  }}">{{ annotation["document"]["title"]  }}</a>
-
-  			{% for tag in annotation["tags"] %}
-					{% include badge.html name=tag %}
-				{% endfor %}
-        
-				<div class="exact">
-				<blockquote>
-					{{ annotation["target"]  }}
-				</blockquote>
-				</div>
-
-  			<div class="raw">
-					<pre><code>
-  				{{ annotation | inspect }}
-          </code></pre>
-  			</div>
-
-		</div>
-		{% endfor %}
-	</div><!-- /#feed -->
 
 	<div id="documents" class="tab-pane active" role="tabpanel">
   
