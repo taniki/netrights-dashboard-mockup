@@ -1,5 +1,1033 @@
 [
     {
+        "updated": "2017-06-16T16:10:20.364815+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.lemonde.fr/pixels/article/2017/06/16/facebook-a-expose-par-erreur-l-identite-de-certains-de-ses-moderateurs-a-des-groupes-terroristes_5145857_4408996.html"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/S7e2NFKuEeenzWuAmSk8aw",
+            "html": "https://hypothes.is/a/S7e2NFKuEeenzWuAmSk8aw",
+            "incontext": "https://hyp.is/S7e2NFKuEeenzWuAmSk8aw/www.lemonde.fr/pixels/article/2017/06/16/facebook-a-expose-par-erreur-l-identite-de-certains-de-ses-moderateurs-a-des-groupes-terroristes_5145857_4408996.html"
+        },
+        "tags": [
+            "facebook",
+            "terrorism",
+            "lang:fr",
+            "security failure"
+        ],
+        "text": "",
+        "created": "2017-06-16T16:10:20.364815+00:00",
+        "uri": "http://www.lemonde.fr/pixels/article/2017/06/16/facebook-a-expose-par-erreur-l-identite-de-certains-de-ses-moderateurs-a-des-groupes-terroristes_5145857_4408996.html",
+        "id": "S7e2NFKuEeenzWuAmSk8aw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Loi travail : des contr\u00f4les in\u00e9dits en amont de la nouvelle manifestation"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-14T15:28:08.194204+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://labs.rs/en/the-human-fabric-of-the-facebook-pyramid/"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/EYGR_lEWEeet3t_O3u8XAQ",
+            "html": "https://hypothes.is/a/EYGR_lEWEeet3t_O3u8XAQ",
+            "incontext": "https://hyp.is/EYGR_lEWEeet3t_O3u8XAQ/labs.rs/en/the-human-fabric-of-the-facebook-pyramid/"
+        },
+        "tags": [
+            "decentralization",
+            "facebook",
+            "digital labor"
+        ],
+        "text": "",
+        "created": "2017-06-14T15:28:08.194204+00:00",
+        "uri": "https://labs.rs/en/the-human-fabric-of-the-facebook-pyramid/",
+        "id": "EYGR_lEWEeet3t_O3u8XAQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Human Fabric of the Facebook Pyramid \u2013 SHARE LAB"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-14T09:44:42.761947+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://webwewant.org/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "sidebar"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 12,
+                        "endContainer": "/div[1]/div[1]/div[2]/aside[1]/div[2]/div[1]",
+                        "startOffset": 7,
+                        "startContainer": "/div[1]/div[1]/div[2]/aside[1]/div[1]/div[1]/ul[1]/li[1]/ul[1]/li[4]/a[1]"
+                    },
+                    {
+                        "end": 5651,
+                        "type": "TextPositionSelector",
+                        "start": 5631
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": " Portugu\u00easFran\u00e7aisEspa\u00f1ol\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                        "exact": "        \nWeb We Want",
+                        "suffix": " is a global initiative of the W"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/AUceYjDSEeenMqMfh3FXBQ",
+            "html": "https://hypothes.is/a/AUceYjDSEeenMqMfh3FXBQ",
+            "incontext": "https://hyp.is/AUceYjDSEeenMqMfh3FXBQ/webwewant.org/"
+        },
+        "tags": [
+            "organization"
+        ],
+        "text": "",
+        "created": "2017-05-04T14:00:17.980685+00:00",
+        "uri": "https://webwewant.org/",
+        "id": "AUceYjDSEeenMqMfh3FXBQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Home | Web We Want"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-12T11:36:46.326923+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.cryptoparty.in/organize/howto"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/WQ7Opk9jEee0CauUBMjKeA",
+            "html": "https://hypothes.is/a/WQ7Opk9jEee0CauUBMjKeA",
+            "incontext": "https://hyp.is/WQ7Opk9jEee0CauUBMjKeA/www.cryptoparty.in/organize/howto"
+        },
+        "tags": [
+            "crypto-party",
+            "ressource",
+            "community organization"
+        ],
+        "text": "",
+        "created": "2017-06-12T11:36:17.210274+00:00",
+        "uri": "https://www.cryptoparty.in/organize/howto",
+        "id": "WQ7Opk9jEee0CauUBMjKeA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "organize:howto [CryptoParty.]"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-09T16:10:23.786732+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://techsolidarity.org/resources/basic_security.htm"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/JLwt2E0uEeepJt_bK1QsVA",
+            "html": "https://hypothes.is/a/JLwt2E0uEeepJt_bK1QsVA",
+            "incontext": "https://hyp.is/JLwt2E0uEeepJt_bK1QsVA/techsolidarity.org/resources/basic_security.htm"
+        },
+        "tags": [
+            "security guide",
+            "ressource",
+            "crypto-party"
+        ],
+        "text": "",
+        "created": "2017-06-09T16:10:23.786732+00:00",
+        "uri": "https://techsolidarity.org/resources/basic_security.htm",
+        "id": "JLwt2E0uEeepJt_bK1QsVA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Basic Security Guide (Tech Solidarity)"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-09T10:38:06.812560+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.thenation.com/article/socialize-uber/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "url-title"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 541,
+                        "endContainer": "/div[5]/div[2]/div[1]/div[1]/article[1]/section[1]/p[1]",
+                        "startOffset": 238,
+                        "startContainer": "/div[5]/div[2]/div[1]/div[1]/article[1]/section[1]/p[1]"
+                    },
+                    {
+                        "end": 11702,
+                        "type": "TextPositionSelector",
+                        "start": 11399
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "tch to Uber\u2019s competitor, Lyft. ",
+                        "exact": "But this approach ignores the fact that Uber\u2019s abuses are baked into how \u201csharing\u201d companies operate, a way of doing business that is shared by its competitors. More important, it misses a way to transform these companies that is right there in front of us: by socializing ownership among their workers.",
+                        "suffix": "\t\t\t\t\t\n\t\t\t\t\t\tjQuery( document ).r"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/uWuunEz_EeeCE6NkAO1vvA",
+            "html": "https://hypothes.is/a/uWuunEz_EeeCE6NkAO1vvA",
+            "incontext": "https://hyp.is/uWuunEz_EeeCE6NkAO1vvA/www.thenation.com/article/socialize-uber/"
+        },
+        "tags": [
+            "platform",
+            "ownership"
+        ],
+        "text": "",
+        "created": "2017-06-09T10:38:06.812560+00:00",
+        "uri": "https://www.thenation.com/article/socialize-uber/",
+        "id": "uWuunEz_EeeCE6NkAO1vvA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Socialize Uber"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-09T09:30:18.624251+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://motherboard.vice.com/en_us/article/lawrence-lessig-is-working-on-an-mmo-game-seed"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/QJJhmkz2EeeFO4v64uL3vQ",
+            "html": "https://hypothes.is/a/QJJhmkz2EeeFO4v64uL3vQ",
+            "incontext": "https://hyp.is/QJJhmkz2EeeFO4v64uL3vQ/motherboard.vice.com/en_us/article/lawrence-lessig-is-working-on-an-mmo-game-seed"
+        },
+        "tags": [
+            "governance",
+            "decentralization",
+            "game",
+            "serious game",
+            "lessig"
+        ],
+        "text": "",
+        "created": "2017-06-09T09:30:18.624251+00:00",
+        "uri": "https://motherboard.vice.com/en_us/article/lawrence-lessig-is-working-on-an-mmo-game-seed",
+        "id": "QJJhmkz2EeeFO4v64uL3vQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "'Governance in the Real World Is So Fucked:' Lawrence Lessig Is Working on an MMO"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T13:42:08.142953+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/RCDetExQEee-i0-X0q6fkg",
+            "html": "https://hypothes.is/a/RCDetExQEee-i0-X0q6fkg",
+            "incontext": "https://hyp.is/RCDetExQEee-i0-X0q6fkg/usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet"
+        },
+        "tags": [
+            "lang:fr"
+        ],
+        "text": "",
+        "created": "2017-06-08T13:42:08.142953+00:00",
+        "uri": "https://usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet",
+        "id": "RCDetExQEee-i0-X0q6fkg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "\u00ab\u00a0Snowden ne fait pas l'histoire, il la permet\u00a0\u00bb"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T13:41:38.331117+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "article"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 7391,
+                        "endContainer": "/article[1]/section[1]",
+                        "startOffset": 195,
+                        "startContainer": "/article[1]/section[1]/p[22]"
+                    },
+                    {
+                        "end": 12074,
+                        "type": "TextPositionSelector",
+                        "start": 11714
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ant l\u2019\u00e9lection pr\u00e9sidentielle). ",
+                        "exact": "On n\u2019arrive pas \u00e0 penser la question technologique. C\u2019est un des derniers business qui marche, c\u2019est donc tr\u00e8s compliqu\u00e9 pour un politique de dire qu\u2019il va renoncer \u00e0 investir dans le data mining, pour pr\u00e9server l\u2019int\u00e9r\u00eat g\u00e9n\u00e9ral, si \u00e7a co\u00fbte un demi point de PIB. Les politiques sont quotidiennement confront\u00e9s aujourd\u2019hui au dilemme : PIB versus long terme.\n",
+                        "suffix": "\nFlore Vasseur, entour\u00e9e de Birg"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/Ml2DMExQEeeg2etBShuXTQ",
+            "html": "https://hypothes.is/a/Ml2DMExQEeeg2etBShuXTQ",
+            "incontext": "https://hyp.is/Ml2DMExQEeeg2etBShuXTQ/usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet"
+        },
+        "tags": [
+            "need:discussion",
+            "economy"
+        ],
+        "text": "",
+        "created": "2017-06-08T13:41:38.331117+00:00",
+        "uri": "https://usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet",
+        "id": "Ml2DMExQEeeg2etBShuXTQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "\u00ab\u00a0Snowden ne fait pas l'histoire, il la permet\u00a0\u00bb"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T13:40:16.950344+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/AenagkxQEee5u3duVKRK1g",
+            "html": "https://hypothes.is/a/AenagkxQEee5u3duVKRK1g",
+            "incontext": "https://hyp.is/AenagkxQEee5u3duVKRK1g/usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet"
+        },
+        "tags": [
+            "interview",
+            "democracy",
+            "surveillance",
+            "snowden",
+            "lessig",
+            "jonsdottir"
+        ],
+        "text": "",
+        "created": "2017-06-08T13:40:16.950344+00:00",
+        "uri": "https://usbeketrica.com/article/snowden-ne-fait-pas-l-histoire-il-la-permet",
+        "id": "AenagkxQEee5u3duVKRK1g",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "\u00ab\u00a0Snowden ne fait pas l'histoire, il la permet\u00a0\u00bb"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T09:51:07.951271+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "post-108705"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 453,
+                        "endContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[67]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[67]"
+                    },
+                    {
+                        "end": 17578,
+                        "type": "TextPositionSelector",
+                        "start": 17125
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": " working our way up from there.\n",
+                        "exact": "But real problems are messy. Tech culture prefers to solve harder, more abstract problems that haven\u2019t been sullied by contact with reality. So they worry about how to give Mars an earth-like climate, rather than how to give Earth an earth-like climate. They debate how to make a morally benevolent God-like AI, rather than figuring out how to put ethical guard rails around the more pedestrian AI they are introducing into every area of people\u2019s lives.",
+                        "suffix": "\nThe tech industry enjoys tearin"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/_tbOnEwvEeeC2GNWNY_1lA",
+            "html": "https://hypothes.is/a/_tbOnEwvEeeC2GNWNY_1lA",
+            "incontext": "https://hyp.is/_tbOnEwvEeeC2GNWNY_1lA/www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html"
+        },
+        "tags": [
+            "issue",
+            "tech culture"
+        ],
+        "text": "",
+        "created": "2017-06-08T09:51:07.951271+00:00",
+        "uri": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+        "id": "_tbOnEwvEeeC2GNWNY_1lA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Notes From an Emergency: Tech Feudalism | naked capitalism"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T09:48:44.775682+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "post-108705"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 0,
+                        "endContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[56]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[53]"
+                    },
+                    {
+                        "end": 14757,
+                        "type": "TextPositionSelector",
+                        "start": 14665
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "all the profits be invested in?\n",
+                        "exact": "What is the plan?\nThe honest answer is: rocket ships and immortality.\nI wish I was kidding.\n",
+                        "suffix": "The best minds in Silicon Valley"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/qX-XMEwvEeePloP9RoFxoA",
+            "html": "https://hypothes.is/a/qX-XMEwvEeePloP9RoFxoA",
+            "incontext": "https://hyp.is/qX-XMEwvEeePloP9RoFxoA/www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html"
+        },
+        "tags": [],
+        "text": "",
+        "created": "2017-06-08T09:48:44.775682+00:00",
+        "uri": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+        "id": "qX-XMEwvEeePloP9RoFxoA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Notes From an Emergency: Tech Feudalism | naked capitalism"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "acct:taniki@hypothes.is"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T09:46:39.423669+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "post-108705"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 411,
+                        "endContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[42]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[42]"
+                    },
+                    {
+                        "end": 12784,
+                        "type": "TextPositionSelector",
+                        "start": 12373
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "y be accountable to themselves.\n",
+                        "exact": "But their software and algorithms affect the lives of billions of people. Decisions about how this software works are not under any kind of democratic control. In the best case, they are being made by idealistic young people in California with imperfect knowledge of life in a faraway place like Germany. In the worst case, they are simply being read out of a black-box algorithm trained on God knows what data.",
+                        "suffix": "\nThis is a very colonial mentali"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/Xsh_LEwvEee6EftvVo-XBw",
+            "html": "https://hypothes.is/a/Xsh_LEwvEee6EftvVo-XBw",
+            "incontext": "https://hyp.is/Xsh_LEwvEee6EftvVo-XBw/www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html"
+        },
+        "tags": [
+            "governance"
+        ],
+        "text": "",
+        "created": "2017-06-08T09:46:39.423669+00:00",
+        "uri": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+        "id": "Xsh_LEwvEee6EftvVo-XBw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Notes From an Emergency: Tech Feudalism | naked capitalism"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T09:45:03.239006+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "post-108705"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 468,
+                        "endContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[36]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[36]"
+                    },
+                    {
+                        "end": 11098,
+                        "type": "TextPositionSelector",
+                        "start": 10630
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "y comes, it will be disastrous.\n",
+                        "exact": "Each of the big five companies, with the important exception of Apple, has made aggressive user surveillance central to its business model. This is a dilemma of the feudal internet. We seek protection from these companies because they can offer us security. But their business model is to make us more vulnerable, by getting us to surrender more of the details of our lives to their servers, and to put more faith in the algorithms they train on our observed behavior.",
+                        "suffix": "\nThese algorithms work well, and"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/JXrfEkwvEeejPesSZbanYQ",
+            "html": "https://hypothes.is/a/JXrfEkwvEeejPesSZbanYQ",
+            "incontext": "https://hyp.is/JXrfEkwvEeejPesSZbanYQ/www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html"
+        },
+        "tags": [
+            "surveillance",
+            "political threat"
+        ],
+        "text": "",
+        "created": "2017-06-08T09:45:03.239006+00:00",
+        "uri": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+        "id": "JXrfEkwvEeejPesSZbanYQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Notes From an Emergency: Tech Feudalism | naked capitalism"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T09:44:50.750779+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "post-108705"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 154,
+                        "endContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[21]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[21]"
+                    },
+                    {
+                        "end": 7728,
+                        "type": "TextPositionSelector",
+                        "start": 7574
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "uo in May 2017 looks like this:\n",
+                        "exact": "There are five Internet companies\u2014Apple, Google, Microsoft, Amazon and Facebook. Together they have a market capitalization just under 3 trillion dollars.",
+                        "suffix": "\nBruce Schneier has called this "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/HgP9LEwvEeeG-Of7P2GmJw",
+            "html": "https://hypothes.is/a/HgP9LEwvEeeG-Of7P2GmJw",
+            "incontext": "https://hyp.is/HgP9LEwvEeeG-Of7P2GmJw/www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html"
+        },
+        "tags": [],
+        "text": "We should also look at the broader platfrom capitalism club.",
+        "created": "2017-06-08T09:44:50.750779+00:00",
+        "uri": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+        "id": "HgP9LEwvEeeG-Of7P2GmJw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Notes From an Emergency: Tech Feudalism | naked capitalism"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T09:37:18.488366+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "post-108705"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 337,
+                        "endContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[11]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[11]"
+                    },
+                    {
+                        "end": 5857,
+                        "type": "TextPositionSelector",
+                        "start": 5520
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ternet is an American Internet.\n",
+                        "exact": "Facebook is the dominant social network in Europe, with 349 million monthly active users. Google has something like 94% of market share for search in Germany. The servers of Europe are littered with the bodies of dead and dying social media sites. The few holdouts that still exist, like Xing, are being crushed by their American rivals.",
+                        "suffix": "\nIn their online life, Europeans"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/EGnT6kwuEeeSqacCg4b_5w",
+            "html": "https://hypothes.is/a/EGnT6kwuEeeSqacCg4b_5w",
+            "incontext": "https://hyp.is/EGnT6kwuEeeSqacCg4b_5w/www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html"
+        },
+        "tags": [
+            "monopoly",
+            "germany"
+        ],
+        "text": "",
+        "created": "2017-06-08T09:37:18.488366+00:00",
+        "uri": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+        "id": "EGnT6kwuEeeSqacCg4b_5w",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Notes From an Emergency: Tech Feudalism | naked capitalism"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-08T09:36:32.818792+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/9TyZLEwtEeeC1zfoYNldyg",
+            "html": "https://hypothes.is/a/9TyZLEwtEeeC1zfoYNldyg",
+            "incontext": "https://hyp.is/9TyZLEwtEeeC1zfoYNldyg/www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html"
+        },
+        "tags": [
+            "pinboard",
+            "platform",
+            "decentralization"
+        ],
+        "text": "",
+        "created": "2017-06-08T09:36:32.818792+00:00",
+        "uri": "http://www.nakedcapitalism.com/2017/05/notes-from-an-emergency.html",
+        "id": "9TyZLEwtEeeC1zfoYNldyg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Notes From an Emergency: Tech Feudalism | naked capitalism"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-06-07T09:49:21.157480+00:00",
         "group": "gVjA5P3n",
         "target": [
@@ -4875,77 +5903,6 @@
         "document": {
             "title": [
                 "IRPC_english_4thedition-1.pdf"
-            ]
-        },
-        "flagged": false,
-        "permissions": {
-            "read": [
-                "group:gVjA5P3n"
-            ],
-            "admin": [
-                "acct:taniki@hypothes.is"
-            ],
-            "update": [
-                "acct:taniki@hypothes.is"
-            ],
-            "delete": [
-                "acct:taniki@hypothes.is"
-            ]
-        }
-    },
-    {
-        "updated": "2017-05-04T14:00:37.426672+00:00",
-        "group": "gVjA5P3n",
-        "target": [
-            {
-                "source": "https://webwewant.org/",
-                "selector": [
-                    {
-                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
-                        "type": "FragmentSelector",
-                        "value": "sidebar"
-                    },
-                    {
-                        "type": "RangeSelector",
-                        "endOffset": 12,
-                        "endContainer": "/div[1]/div[1]/div[2]/aside[1]/div[2]/div[1]",
-                        "startOffset": 7,
-                        "startContainer": "/div[1]/div[1]/div[2]/aside[1]/div[1]/div[1]/ul[1]/li[1]/ul[1]/li[4]/a[1]"
-                    },
-                    {
-                        "end": 5651,
-                        "type": "TextPositionSelector",
-                        "start": 5631
-                    },
-                    {
-                        "type": "TextQuoteSelector",
-                        "prefix": " Portugu\u00easFran\u00e7aisEspa\u00f1ol\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-                        "exact": "        \nWeb We Want",
-                        "suffix": " is a global initiative of the W"
-                    }
-                ]
-            }
-        ],
-        "links": {
-            "json": "https://hypothes.is/api/annotations/AUceYjDSEeenMqMfh3FXBQ",
-            "html": "https://hypothes.is/a/AUceYjDSEeenMqMfh3FXBQ",
-            "incontext": "https://hyp.is/AUceYjDSEeenMqMfh3FXBQ/webwewant.org/"
-        },
-        "tags": [
-            "organisation"
-        ],
-        "text": "",
-        "created": "2017-05-04T14:00:17.980685+00:00",
-        "uri": "https://webwewant.org/",
-        "id": "AUceYjDSEeenMqMfh3FXBQ",
-        "moderation": {
-            "flagCount": 0
-        },
-        "user": "acct:taniki@hypothes.is",
-        "hidden": false,
-        "document": {
-            "title": [
-                "Home | Web We Want"
             ]
         },
         "flagged": false,
