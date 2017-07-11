@@ -1,5 +1,1887 @@
 [
     {
+        "updated": "2017-07-11T08:14:33.551359+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/-MqbCmYQEeetvVtUui-O6w",
+            "html": "https://hypothes.is/a/-MqbCmYQEeetvVtUui-O6w",
+            "incontext": "https://hyp.is/-MqbCmYQEeetvVtUui-O6w/www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg"
+        },
+        "tags": [
+            "cryptography",
+            "teaching materials",
+            "introduction",
+            "lectures"
+        ],
+        "text": "",
+        "created": "2017-07-11T08:14:33.551359+00:00",
+        "uri": "https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg",
+        "id": "-MqbCmYQEeetvVtUui-O6w",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Introduction to Cryptography by Christof Paar"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T11:12:46.488075+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 748,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[48]",
+                        "startOffset": 452,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[48]"
+                    },
+                    {
+                        "end": 28939,
+                        "type": "TextPositionSelector",
+                        "start": 28643
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "n out to be another cargo cult. ",
+                        "exact": "A century from now, people may look back to this time as the moment when believers began to expect a superhuman AI to appear at any moment and deliver them goods of unimaginable value. Decade after decade they wait for the superhuman AI to appear, certain that it must arrive soon with its cargo.",
+                        "suffix": "Yet non-superhuman artificial in"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/s8lQamVgEeexskcW0_oLpQ",
+            "html": "https://hypothes.is/a/s8lQamVgEeexskcW0_oLpQ",
+            "incontext": "https://hyp.is/s8lQamVgEeexskcW0_oLpQ/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "design fiction"
+        ],
+        "text": "",
+        "created": "2017-07-10T11:12:46.488075+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "s8lQamVgEeexskcW0_oLpQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T11:10:37.645892+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 503,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[47]",
+                        "startOffset": 206,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[47]"
+                    },
+                    {
+                        "end": 28005,
+                        "type": "TextPositionSelector",
+                        "start": 27708
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": " exist, but he is very unlikely.",
+                        "exact": " However myths can be useful, and once invented they won\u2019t go away. The idea of a Superman will never die. The idea of a superhuman AI Singularity, now that it has been birthed, will never go away either. But we should recognize that it is a religious idea at this moment and not a scientific one.",
+                        "suffix": " If we inspect the evidence we h"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/ZwagymVgEeesS6ON2s7bGA",
+            "html": "https://hypothes.is/a/ZwagymVgEeesS6ON2s7bGA",
+            "incontext": "https://hyp.is/ZwagymVgEeesS6ON2s7bGA/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "=="
+        ],
+        "text": "~ Furio Jesi",
+        "created": "2017-07-10T11:10:37.645892+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "ZwagymVgEeesS6ON2s7bGA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T11:04:37.209226+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 482,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[45]",
+                        "startOffset": 250,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[45]"
+                    },
+                    {
+                        "end": 26729,
+                        "type": "TextPositionSelector",
+                        "start": 26497
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "licating values that match ours.",
+                        "exact": " Though I think a superhuman AI is a remote possible existential threat (and worthy of considering), I think its unlikeliness (based on the evidence we have so far) should not be the guide for our science, policies, and development.",
+                        "suffix": " An asteroid strike on the Earth"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/kDAfaGVfEeewn0-pnPWYKA",
+            "html": "https://hypothes.is/a/kDAfaGVfEeewn0-pnPWYKA",
+            "incontext": "https://hyp.is/kDAfaGVfEeewn0-pnPWYKA/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "++"
+        ],
+        "text": "",
+        "created": "2017-07-10T11:04:37.209226+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "kDAfaGVfEeewn0-pnPWYKA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T11:02:49.489447+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 513,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[43]",
+                        "startOffset": 371,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[43]"
+                    },
+                    {
+                        "end": 25564,
+                        "type": "TextPositionSelector",
+                        "start": 25422
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "power, almost becoming godlike. ",
+                        "exact": "We have no evidence that merely thinking about intelligence is enough to create new levels of intelligence. This kind of thinkism is a belief.",
+                        "suffix": " We have a lot of evidence that "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/T_v_3mVfEee2kF-SmTleUw",
+            "html": "https://hypothes.is/a/T_v_3mVfEee2kF-SmTleUw",
+            "incontext": "https://hyp.is/T_v_3mVfEee2kF-SmTleUw/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "++"
+        ],
+        "text": "",
+        "created": "2017-07-10T11:02:49.489447+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "T_v_3mVfEee2kF-SmTleUw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T11:00:04.050938+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 669,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[39]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[39]"
+                    },
+                    {
+                        "end": 22955,
+                        "type": "TextPositionSelector",
+                        "start": 22286
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "will not yield the correct data.",
+                        "exact": "Thinking (intelligence) is only part of science; maybe even a small part. As one example, we don\u2019t have enough proper data to come close to solving the death problem. In the case of working with living organisms, most of these experiments take calendar time. The slow metabolism of a cell cannot be sped up. They take years, or months, or at least days, to get results. If we want to know what happens to subatomic particles, we can\u2019t just think about them. We have to build very large, very complex, very tricky physical structures to find out. Even if the smartest physicists were 1,000 times smarter than they are now, without a Collider, they will know nothing new.",
+                        "suffix": "There is no doubt that a super A"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/7WJormVeEeeQFnsLzJe2IA",
+            "html": "https://hypothes.is/a/7WJormVeEeeQFnsLzJe2IA",
+            "incontext": "https://hyp.is/7WJormVeEeeQFnsLzJe2IA/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [],
+        "text": "material culture of science",
+        "created": "2017-07-10T11:00:04.050938+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "7WJormVeEeeQFnsLzJe2IA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:57:06.047698+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 134,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[37]",
+                        "startOffset": 126,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[37]"
+                    },
+                    {
+                        "end": 21146,
+                        "type": "TextPositionSelector",
+                        "start": 21138
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "s. I call this mythical belief \u201c",
+                        "exact": "thinkism",
+                        "suffix": ".\u201d It\u2019s the fallacy that future "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/g0LAwmVeEeexC8NoNzs8pA",
+            "html": "https://hypothes.is/a/g0LAwmVeEeexC8NoNzs8pA",
+            "incontext": "https://hyp.is/g0LAwmVeEeexC8NoNzs8pA/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-07-10T10:57:06.047698+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "g0LAwmVeEeexC8NoNzs8pA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:52:18.271680+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 0,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[32]",
+                        "startOffset": 518,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[31]"
+                    },
+                    {
+                        "end": 19208,
+                        "type": "TextPositionSelector",
+                        "start": 18940
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": " we assume it will happen soon? ",
+                        "exact": "The only thing expanding on an exponential curve are the inputs in AI, the resources devoted to producing the smartness or intelligences. But the output performance is not on a Moore\u2019s law rise. AIs are not getting twice as smart every 3 years, or even every 10 years.",
+                        "suffix": "I asked a lot of AI experts for "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/18LbamVdEeetUgPFTCm7ng",
+            "html": "https://hypothes.is/a/18LbamVdEeetUgPFTCm7ng",
+            "incontext": "https://hyp.is/18LbamVdEeetUgPFTCm7ng/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "++"
+        ],
+        "text": "",
+        "created": "2017-07-10T10:52:18.271680+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "18LbamVdEeetUgPFTCm7ng",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:47:34.967062+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 730,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[24]",
+                        "startOffset": 666,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[24]"
+                    },
+                    {
+                        "end": 15842,
+                        "type": "TextPositionSelector",
+                        "start": 15778
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ent it is to just make a human. ",
+                        "exact": "After all, making a human is something we can do in nine months.",
+                        "suffix": "Furthermore, as mentioned above,"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/GpvenGVdEeeZCXvO3VXS1g",
+            "html": "https://hypothes.is/a/GpvenGVdEeeZCXvO3VXS1g",
+            "incontext": "https://hyp.is/GpvenGVdEeeZCXvO3VXS1g/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [],
+        "text": "you can't do it alone and fertility rate decrease is still a thing",
+        "created": "2017-07-10T10:47:00.916817+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "GpvenGVdEeeZCXvO3VXS1g",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "acct:taniki@hypothes.is"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:43:36.763107+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 606,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[22]",
+                        "startOffset": 593,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[22]"
+                    },
+                    {
+                        "end": 13841,
+                        "type": "TextPositionSelector",
+                        "start": 13828
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "can do \u201cuniversal\u201d computation. ",
+                        "exact": "Singularitans",
+                        "suffix": " rely on this principle for thei"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/oORxaGVcEeeVmLO_9qkRUw",
+            "html": "https://hypothes.is/a/oORxaGVcEeeVmLO_9qkRUw",
+            "incontext": "https://hyp.is/oORxaGVcEeeVmLO_9qkRUw/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "+glossary"
+        ],
+        "text": "",
+        "created": "2017-07-10T10:43:36.763107+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "oORxaGVcEeeVmLO_9qkRUw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:41:38.853693+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 799,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[19]",
+                        "startOffset": 626,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[19]"
+                    },
+                    {
+                        "end": 12310,
+                        "type": "TextPositionSelector",
+                        "start": 12137
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "cies to survive on this planet. ",
+                        "exact": "Mapped in the space of all possible intelligences, a human-type of intelligence will be stuck in the corner somewhere, just as our world is stuck at the edge of vast galaxy.",
+                        "suffix": "We can certainly imagine, and ev"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/UsnVVGVcEeeZCN-FmAlg0w",
+            "html": "https://hypothes.is/a/UsnVVGVcEeeZCN-FmAlg0w",
+            "incontext": "https://hyp.is/UsnVVGVcEeeZCN-FmAlg0w/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "intelligence",
+            "important"
+        ],
+        "text": "",
+        "created": "2017-07-10T10:41:25.704365+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "UsnVVGVcEeeZCN-FmAlg0w",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:39:06.946384+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 875,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[16]",
+                        "startOffset": 547,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[16]"
+                    },
+                    {
+                        "end": 10724,
+                        "type": "TextPositionSelector",
+                        "start": 10396
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ntity will do all we do better. ",
+                        "exact": "It\u2019s similar to the physical powers of humans. The industrial revolution is 200 years old, and while all machines as a class can beat the physical achievements of an individual human (speed of running, weight lifting, precision cutting, etc.), there is no one machine that can beat an average human in everything he or she does.",
+                        "suffix": "Even as the society of minds in "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/AAyBkGVcEeehaAcz8QiEpg",
+            "html": "https://hypothes.is/a/AAyBkGVcEeehaAcz8QiEpg",
+            "incontext": "https://hyp.is/AAyBkGVcEeehaAcz8QiEpg/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "general intellect",
+            "machine"
+        ],
+        "text": "",
+        "created": "2017-07-10T10:39:06.946384+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "AAyBkGVcEeehaAcz8QiEpg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:38:00.190765+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 117,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[16]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[16]"
+                    },
+                    {
+                        "end": 9966,
+                        "type": "TextPositionSelector",
+                        "start": 9849
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ienness will be its chief asset.",
+                        "exact": "At the same time we will integrate these various modes of cognition into more complicated, complex societies of mind.",
+                        "suffix": " Some of these complexes will be"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/2FJPhmVbEeeeTFspkNfpXw",
+            "html": "https://hypothes.is/a/2FJPhmVbEeeeTFspkNfpXw",
+            "incontext": "https://hyp.is/2FJPhmVbEeeeTFspkNfpXw/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "need:expertise"
+        ],
+        "text": "",
+        "created": "2017-07-10T10:38:00.190765+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "2FJPhmVbEeeeTFspkNfpXw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:37:25.333679+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 531,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[15]",
+                        "startOffset": 465,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[15]"
+                    },
+                    {
+                        "end": 9717,
+                        "type": "TextPositionSelector",
+                        "start": 9651
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "really it is different than us. ",
+                        "exact": "It\u2019s the differences in thinking that are the main benefits of AI.",
+                        "suffix": " I think a useful model of AI is"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/w4M3vmVbEeetUKOyEIwqNw",
+            "html": "https://hypothes.is/a/w4M3vmVbEeetUKOyEIwqNw",
+            "incontext": "https://hyp.is/w4M3vmVbEeetUKOyEIwqNw/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [],
+        "text": "",
+        "created": "2017-07-10T10:37:25.333679+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "w4M3vmVbEeetUKOyEIwqNw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "acct:taniki@hypothes.is"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:35:28.145366+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 193,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[14]",
+                        "startOffset": 91,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[14]"
+                    },
+                    {
+                        "end": 8291,
+                        "type": "TextPositionSelector",
+                        "start": 8189
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "d humans in certain dimensions. ",
+                        "exact": "Your calculator is a genius in math; Google\u2019s memory is already beyond our own in a certain dimension.",
+                        "suffix": " We are engineering AIs to excel"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/famUhmVbEee0JAc7XNwj2A",
+            "html": "https://hypothes.is/a/famUhmVbEee0JAc7XNwj2A",
+            "incontext": "https://hyp.is/famUhmVbEee0JAc7XNwj2A/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "--"
+        ],
+        "text": "Philosophers of science like Guisepe Longo will argue that machine learning mathematics is just brute force and not very sophisticated regarding contemporary advanced mathematics.",
+        "created": "2017-07-10T10:35:28.145366+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "famUhmVbEee0JAc7XNwj2A",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:26:13.605923+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 505,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[10]",
+                        "startOffset": 228,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[10]"
+                    },
+                    {
+                        "end": 5894,
+                        "type": "TextPositionSelector",
+                        "start": 5617
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": " measuring animal intelligence. ",
+                        "exact": "If intelligence were a single dimension we should be able to arrange the intelligences of a parrot, a dolphin, a horse, a squirrel, an octopus, a blue whale, a cat, and a gorilla in the correct ascending order in a line. We currently have no scientific evidence of such a line.",
+                        "suffix": " One reason might be that there "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/MxwFbGVaEeec3I8nmwm8mA",
+            "html": "https://hypothes.is/a/MxwFbGVaEeec3I8nmwm8mA",
+            "incontext": "https://hyp.is/MxwFbGVaEeec3I8nmwm8mA/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "++"
+        ],
+        "text": "",
+        "created": "2017-07-10T10:26:13.605923+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "MxwFbGVaEeec3I8nmwm8mA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:24:43.719317+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 588,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[9]",
+                        "startOffset": 459,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/p[9]"
+                    },
+                    {
+                        "end": 5088,
+                        "type": "TextPositionSelector",
+                        "start": 4959
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "e circumference of this circle. ",
+                        "exact": "This picture emphasizes a fundamental fact of evolution that is hard to appreciate: Every species alive today is equally evolved.",
+                        "suffix": " Humans exist on this outer ring"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/_Z9ccmVZEeexBOO7mToqdg",
+            "html": "https://hypothes.is/a/_Z9ccmVZEeexBOO7mToqdg",
+            "incontext": "https://hyp.is/_Z9ccmVZEeexBOO7mToqdg/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "++"
+        ],
+        "text": "misconception about evolution is fueling misconception about AI",
+        "created": "2017-07-10T10:24:43.719317+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "_Z9ccmVZEeexBOO7mToqdg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T10:19:54.332337+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "app-root"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 0,
+                        "endContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/ol[2]/li[2]/strong[1]",
+                        "startOffset": 0,
+                        "startContainer": "/div[1]/div[1]/div[4]/div[2]/div[1]/main[1]/article[1]/div[1]/ol[2]/li[1]/strong[1]"
+                    },
+                    {
+                        "end": 2180,
+                        "type": "TextPositionSelector",
+                        "start": 2090
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "e more evidence to support them.",
+                        "exact": "Intelligence is not a single dimension, so \u201csmarter than humans\u201d is a meaningless concept.",
+                        "suffix": "Humans do not have general purpo"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/URWJpGVZEeetTefPslODnA",
+            "html": "https://hypothes.is/a/URWJpGVZEeetTefPslODnA",
+            "incontext": "https://hyp.is/URWJpGVZEeetTefPslODnA/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "++"
+        ],
+        "text": "argument against the singularity: intelligence is not uni-dimensional\n",
+        "created": "2017-07-10T10:19:54.332337+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "URWJpGVZEeetTefPslODnA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-10T09:38:05.845672+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/eeM3QmVTEeeimrcj1oyRrw",
+            "html": "https://hypothes.is/a/eeM3QmVTEeeimrcj1oyRrw",
+            "incontext": "https://hyp.is/eeM3QmVTEeeimrcj1oyRrw/www.wired.com/2017/04/the-myth-of-a-superhuman-ai/"
+        },
+        "tags": [
+            "artificial intelligence"
+        ],
+        "text": "",
+        "created": "2017-07-10T09:38:05.845672+00:00",
+        "uri": "https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/",
+        "id": "eeM3QmVTEeeimrcj1oyRrw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The Myth of a Superhuman AI"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T14:20:20.633593+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://iota.org/"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/6syL1FwMEeeq-Pdithr2NQ",
+            "html": "https://hypothes.is/a/6syL1FwMEeeq-Pdithr2NQ",
+            "incontext": "https://hyp.is/6syL1FwMEeeq-Pdithr2NQ/iota.org/"
+        },
+        "tags": [
+            "blockchain",
+            "seminar"
+        ],
+        "text": "",
+        "created": "2017-06-28T14:20:20.633593+00:00",
+        "uri": "https://iota.org/",
+        "id": "6syL1FwMEeeq-Pdithr2NQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "IOTA - Next Generation Blockchain"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T14:08:01.046916+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://lecercleducoin.fr/"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/Mf_CUlwLEeeDj2tdvyvqFg",
+            "html": "https://hypothes.is/a/Mf_CUlwLEeeDj2tdvyvqFg",
+            "incontext": "https://hyp.is/Mf_CUlwLEeeDj2tdvyvqFg/lecercleducoin.fr/"
+        },
+        "tags": [
+            "seminar",
+            "speaker"
+        ],
+        "text": "",
+        "created": "2017-06-28T14:08:01.046916+00:00",
+        "uri": "http://lecercleducoin.fr/",
+        "id": "Mf_CUlwLEeeDj2tdvyvqFg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Le Cercle du Coin \u2013 Association Bitcoin, cryptomonnaies et Blockchains."
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T13:53:34.595706+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Marc_Andreessen"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/DCCixFwJEeep9m9vqjIcIA",
+            "html": "https://hypothes.is/a/DCCixFwJEeep9m9vqjIcIA",
+            "incontext": "https://hyp.is/DCCixFwJEeep9m9vqjIcIA/en.wikipedia.org/wiki/Marc_Andreessen"
+        },
+        "tags": [
+            "seminar",
+            "quote"
+        ],
+        "text": "\"we should have built payments in the browser\"",
+        "created": "2017-06-28T13:52:38.530444+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Marc_Andreessen",
+        "id": "DCCixFwJEeep9m9vqjIcIA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Marc Andreessen - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T13:46:27.243460+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Lightning_Network"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/oKh42FwHEeeUdEPS6CiJvA",
+            "html": "https://hypothes.is/a/oKh42FwHEeeUdEPS6CiJvA",
+            "incontext": "https://hyp.is/oKh42FwHEeeUdEPS6CiJvA/en.wikipedia.org/wiki/Lightning_Network"
+        },
+        "tags": [
+            "seminar",
+            "blockchain"
+        ],
+        "text": "",
+        "created": "2017-06-28T13:42:28.736796+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Lightning_Network",
+        "id": "oKh42FwHEeeUdEPS6CiJvA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Lightning Network - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T13:45:28.277297+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/The_DAO_(organization)"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/C7UgaFwIEeeDjlNYmmI-lQ",
+            "html": "https://hypothes.is/a/C7UgaFwIEeeDjlNYmmI-lQ",
+            "incontext": "https://hyp.is/C7UgaFwIEeeDjlNYmmI-lQ/en.wikipedia.org/wiki/The_DAO_(organization)"
+        },
+        "tags": [
+            "seminar",
+            "blockchain"
+        ],
+        "text": "",
+        "created": "2017-06-28T13:45:28.277297+00:00",
+        "uri": "https://en.wikipedia.org/wiki/The_DAO_(organization)",
+        "id": "C7UgaFwIEeeDjlNYmmI-lQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "The DAO (organization) - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T13:38:35.946471+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://bitsonblocks.net/2016/02/29/a-gentle-introduction-to-immutability-of-blockchains/"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/FgL-GlwHEeeIJWc6lRoc3A",
+            "html": "https://hypothes.is/a/FgL-GlwHEeeIJWc6lRoc3A",
+            "incontext": "https://hyp.is/FgL-GlwHEeeIJWc6lRoc3A/bitsonblocks.net/2016/02/29/a-gentle-introduction-to-immutability-of-blockchains/"
+        },
+        "tags": [
+            "seminar"
+        ],
+        "text": "data immutability",
+        "created": "2017-06-28T13:38:35.946471+00:00",
+        "uri": "https://bitsonblocks.net/2016/02/29/a-gentle-introduction-to-immutability-of-blockchains/",
+        "id": "FgL-GlwHEeeIJWc6lRoc3A",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "A gentle introduction to immutability of blockchains"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T13:27:25.876299+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/CAP_theorem"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/hoNVGlwFEeetrsepgu7glQ",
+            "html": "https://hypothes.is/a/hoNVGlwFEeetrsepgu7glQ",
+            "incontext": "https://hyp.is/hoNVGlwFEeetrsepgu7glQ/en.wikipedia.org/wiki/CAP_theorem"
+        },
+        "tags": [
+            "seminar"
+        ],
+        "text": "",
+        "created": "2017-06-28T13:27:25.876299+00:00",
+        "uri": "https://en.wikipedia.org/wiki/CAP_theorem",
+        "id": "hoNVGlwFEeetrsepgu7glQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "CAP theorem - Wikipedia, the free encyclopedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T13:25:32.345821+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Logical_clock"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/QuGDclwFEeeWWtfVggQB2A",
+            "html": "https://hypothes.is/a/QuGDclwFEeeWWtfVggQB2A",
+            "incontext": "https://hyp.is/QuGDclwFEeeWWtfVggQB2A/en.wikipedia.org/wiki/Logical_clock"
+        },
+        "tags": [
+            "seminar"
+        ],
+        "text": "",
+        "created": "2017-06-28T13:25:32.345821+00:00",
+        "uri": "https://en.wikipedia.org/wiki/Logical_clock",
+        "id": "QuGDclwFEeeWWtfVggQB2A",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Logical clock - Wikipedia"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-28T13:22:39.878022+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.octo.com/en"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/3Dm7JlwEEeeuJOMj480rtA",
+            "html": "https://hypothes.is/a/3Dm7JlwEEeeuJOMj480rtA",
+            "incontext": "https://hyp.is/3Dm7JlwEEeeuJOMj480rtA/www.octo.com/en"
+        },
+        "tags": [
+            "seminar",
+            "speaker"
+        ],
+        "text": "",
+        "created": "2017-06-28T13:22:39.878022+00:00",
+        "uri": "http://www.octo.com/en",
+        "id": "3Dm7JlwEEeeuJOMj480rtA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "OCTO Technology: IT consulting and outstanding Software"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-22T13:25:55.904606+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.telerama.fr/medias/palantir-big-data-renseignement,153229.php"
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/UmnL0FdOEeekIQ-vRYRMZQ",
+            "html": "https://hypothes.is/a/UmnL0FdOEeekIQ-vRYRMZQ",
+            "incontext": "https://hyp.is/UmnL0FdOEeekIQ-vRYRMZQ/www.telerama.fr/medias/palantir-big-data-renseignement,153229.php"
+        },
+        "tags": [
+            "peter thiel",
+            "palantir",
+            "lang:fr",
+            "surveillance",
+            "dgsi"
+        ],
+        "text": "",
+        "created": "2017-06-22T13:25:55.904606+00:00",
+        "uri": "http://www.telerama.fr/medias/palantir-big-data-renseignement,153229.php",
+        "id": "UmnL0FdOEeekIQ-vRYRMZQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:taniki@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Palantir, l'encombrant ami am\u00e9ricain du renseignement fran\u00e7ais"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:taniki@hypothes.is"
+            ],
+            "update": [
+                "acct:taniki@hypothes.is"
+            ],
+            "delete": [
+                "acct:taniki@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-19T16:06:21.458336+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf",
+                "selector": [
+                    {
+                        "end": 41411,
+                        "type": "TextPositionSelector",
+                        "start": 41228
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ess any communication ordevice. ",
+                        "exact": "The basic problem with this argu-ment is that it assumes both the effective-ness of the government agencies responsi-ble for order, and the effectiveness of theinstitutional controls.",
+                        "suffix": " As the Internet of Things bloss"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/PG-r_FUJEeespjvp5SV-Hw",
+            "html": "https://hypothes.is/a/PG-r_FUJEeespjvp5SV-Hw",
+            "incontext": "https://hyp.is/PG-r_FUJEeespjvp5SV-Hw/nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf"
+        },
+        "tags": [],
+        "text": "Should we allow the governments to have the role of parents ? Should we let them collect informations about us in the sake of our safety ? \nIt seems like there are other solutions but they choose the easiest among all of the solutions, but what for money and power ?",
+        "created": "2017-06-19T16:06:21.458336+00:00",
+        "uri": "https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf",
+        "id": "PG-r_FUJEeespjvp5SV-Hw",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:Iness21@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Shinner.qxd"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "update": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "delete": [
+                "acct:Iness21@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-06-19T13:22:52.072908+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf",
+                "selector": [
+                    {
+                        "end": 10769,
+                        "type": "TextPositionSelector",
+                        "start": 10664
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "martphonesand the iosapp store. ",
+                        "exact": "By the middle of2014, Internet access by smartphone hadsurpassed Internet access from desktopsor laptops.",
+                        "suffix": "3Handheld and tablet users over "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/ZZNfBFTyEeeqGf_swD2zsQ",
+            "html": "https://hypothes.is/a/ZZNfBFTyEeeqGf_swD2zsQ",
+            "incontext": "https://hyp.is/ZZNfBFTyEeeqGf_swD2zsQ/nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf"
+        },
+        "tags": [],
+        "text": "Facilitate the tracking of people! Tracking people through their desktops is possible but it's a lot easier to track people if they always log in through their smartphones. Thus the need of confidentialiy and decentralisation",
+        "created": "2017-06-19T13:22:52.072908+00:00",
+        "uri": "https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf",
+        "id": "ZZNfBFTyEeeqGf_swD2zsQ",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:Iness21@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Shinner.qxd"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "update": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "delete": [
+                "acct:Iness21@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-06-16T16:10:20.364815+00:00",
         "group": "gVjA5P3n",
         "target": [
