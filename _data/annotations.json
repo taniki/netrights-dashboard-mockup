@@ -1,5 +1,254 @@
 [
     {
+        "updated": "2017-07-13T13:09:42.062050+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.browserauth.net/tls-client-authentication",
+                "selector": [
+                    {
+                        "conformsTo": "https://tools.ietf.org/html/rfc3236",
+                        "type": "FragmentSelector",
+                        "value": "sites-page-title"
+                    },
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 25,
+                        "endContainer": "/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/h3[1]/span[1]",
+                        "startOffset": 0,
+                        "startContainer": "/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/h3[1]/span[1]"
+                    },
+                    {
+                        "end": 281,
+                        "type": "TextPositionSelector",
+                        "start": 256
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "cation\nAbout the Author\n\n\n\n \n\n\n\n",
+                        "exact": "TLS Client Authentication",
+                        "suffix": "\n\n\n\nTraditionally, TLS Client Au"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/SziI9GfMEeekBteE8hqArg",
+            "html": "https://hypothes.is/a/SziI9GfMEeekBteE8hqArg",
+            "incontext": "https://hyp.is/SziI9GfMEeekBteE8hqArg/www.browserauth.net/tls-client-authentication"
+        },
+        "tags": [
+            "encryption"
+        ],
+        "text": "So basically with TLS the user Authentication is not possible ? ",
+        "created": "2017-07-13T13:07:58.953716+00:00",
+        "uri": "http://www.browserauth.net/tls-client-authentication",
+        "id": "SziI9GfMEeekBteE8hqArg",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:Iness21@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "TLS Client Authentication - BrowserAuth.net"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "update": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "delete": [
+                "acct:Iness21@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-13T11:58:23.521030+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://tools.ietf.org/html/rfc4492",
+                "selector": [
+                    {
+                        "type": "RangeSelector",
+                        "endOffset": 2356,
+                        "endContainer": "/div[1]/pre[9]",
+                        "startOffset": 4,
+                        "startContainer": "/div[1]/pre[9]/span[4]/h2[1]"
+                    },
+                    {
+                        "end": 21426,
+                        "type": "TextPositionSelector",
+                        "start": 21403
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "ertificates in the chain.)\n\n4.  ",
+                        "exact": "TLS Extensions for ECC\n",
+                        "suffix": "\n   Two new TLS extensions are d"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/kmlQHmfCEee3EttVHOqUPA",
+            "html": "https://hypothes.is/a/kmlQHmfCEee3EttVHOqUPA",
+            "incontext": "https://hyp.is/kmlQHmfCEee3EttVHOqUPA/tools.ietf.org/html/rfc4492"
+        },
+        "tags": [],
+        "text": "The Ellipitic Curves cryptography emplemented in TLS",
+        "created": "2017-07-13T11:58:23.521030+00:00",
+        "uri": "https://tools.ietf.org/html/rfc4492",
+        "id": "kmlQHmfCEee3EttVHOqUPA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:Iness21@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "RFC 4492 - Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer Security (TLS)"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "update": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "delete": [
+                "acct:Iness21@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-12T14:04:39.888628+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "http://www.cs.utexas.edu/~byoung/cs361/lecture53.pdf",
+                "selector": [
+                    {
+                        "end": 670,
+                        "type": "TextPositionSelector",
+                        "start": 592
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "oved and re-used.Can we define a",
+                        "exact": " mechanism for signing a document digitally thathas analogous characteristics?",
+                        "suffix": "Lecture 53: 2Digital SignaturesD"
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/C98NemcLEee7kpOSxpzsQA",
+            "html": "https://hypothes.is/a/C98NemcLEee7kpOSxpzsQA",
+            "incontext": "https://hyp.is/C98NemcLEee7kpOSxpzsQA/www.cs.utexas.edu/~byoung/cs361/lecture53.pdf"
+        },
+        "tags": [],
+        "text": "Digital signatures are very used in cryptography. What if we use digital signatures in baily basis for our documents?",
+        "created": "2017-07-12T14:04:39.888628+00:00",
+        "uri": "http://www.cs.utexas.edu/~byoung/cs361/lecture53.pdf",
+        "id": "C98NemcLEee7kpOSxpzsQA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:Iness21@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Foundations of Computer Security - Lecture 53: Digital Signatures"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "update": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "delete": [
+                "acct:Iness21@hypothes.is"
+            ]
+        }
+    },
+    {
+        "updated": "2017-07-12T12:54:53.657930+00:00",
+        "group": "gVjA5P3n",
+        "target": [
+            {
+                "source": "https://www.cs.utexas.edu/~byoung/cs361/lecture52.pdf",
+                "selector": [
+                    {
+                        "end": 200,
+                        "type": "TextPositionSelector",
+                        "start": 185
+                    },
+                    {
+                        "type": "TextQuoteSelector",
+                        "prefix": "52: 1Diffie-Hellman Key Exchange",
+                        "exact": "Diffie-Hellman ",
+                        "suffix": "Key ExchangeThe question of key "
+                    }
+                ]
+            }
+        ],
+        "links": {
+            "json": "https://hypothes.is/api/annotations/TLDzVGcBEee4nhdZLkBHtA",
+            "html": "https://hypothes.is/a/TLDzVGcBEee4nhdZLkBHtA",
+            "incontext": "https://hyp.is/TLDzVGcBEee4nhdZLkBHtA/www.cs.utexas.edu/~byoung/cs361/lecture52.pdf"
+        },
+        "tags": [],
+        "text": "Diffie Hellman is the first and most used cryptgraphic method.",
+        "created": "2017-07-12T12:54:53.657930+00:00",
+        "uri": "https://www.cs.utexas.edu/~byoung/cs361/lecture52.pdf",
+        "id": "TLDzVGcBEee4nhdZLkBHtA",
+        "moderation": {
+            "flagCount": 0
+        },
+        "user": "acct:Iness21@hypothes.is",
+        "hidden": false,
+        "document": {
+            "title": [
+                "Foundations of Computer Security - Lecture 52: Diffie-Hellman Key Exchange"
+            ]
+        },
+        "flagged": false,
+        "permissions": {
+            "read": [
+                "group:gVjA5P3n"
+            ],
+            "admin": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "update": [
+                "acct:Iness21@hypothes.is"
+            ],
+            "delete": [
+                "acct:Iness21@hypothes.is"
+            ]
+        }
+    },
+    {
         "updated": "2017-07-11T08:14:33.551359+00:00",
         "group": "gVjA5P3n",
         "target": [
